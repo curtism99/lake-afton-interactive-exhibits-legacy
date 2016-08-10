@@ -1,0 +1,48 @@
+YoungStars
+contains young stars.
+C1
+A
+FewHundredStars
+contains a few hundred stars.
+C1
+A
+DiskPotions
+is found in the disk portions of spiral galaxies.
+C1
+A
+TogetherFewYears
+stays together for only a few billion years.
+C1
+A
+Less40YearsAccross
+is less than 40 light years accross.
+C1
+A
+GasDustAssociated
+is some times assocated with clouds of gas and dust.
+C1
+A
+OnlyOldStars
+contains only old stars.
+C2
+A
+MillionStars
+contains between 10 thousand and 1 million stars.
+C2
+A
+Halos
+found in the halos of spiral galaxies.
+C2
+A
+StaysBillionYrs
+stays together for billion years.
+C2
+A
+100YrsAccross
+can be more than 100 years accross.
+C2
+A
+LittleOrNoGass
+has little or no gas.
+C2
+A

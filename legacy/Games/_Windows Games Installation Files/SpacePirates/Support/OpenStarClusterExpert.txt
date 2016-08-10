@@ -1,0 +1,50 @@
+OSCYoungStars
+where other stars in the neigborhood are all young stars.
+XX
+XX
+XX
+OSCFewHundredStars
+with a grouip of a few hundred stars.
+XX
+XX
+C2C3
+OSCDiskPotions
+that is in the disk portion of spiral Galaxes.
+XX
+XX
+C3
+OSCTogetherFewYears
+with a group of stars that generally stays together for less then a few 100 million years.
+XX
+XX
+C2
+OSCLess40YearsAccross
+with a group of stars that is less than 40 light years accross.
+XX
+XX
+C2
+OSCGasDustAssociated
+that is sometimes associated with clouds of gas and dust.
+XX
+XX
+XX
+OSCNeiborsSameAge
+where others stars in the neighborhood are all the same age.
+++
+++
+C2
+OSCNeiborsSameCloud
+where others stars in the same neighborhood all from the same gas cloud.
+++
+++
+C2
+OSCGasAndDustclouds
+that is sometimes associated with clouds of gas and dust.
+++
+++
+XX
+OSC3To4YrsApart
+where stars are 3 to 4 light years apart.
+++
+++
+XX

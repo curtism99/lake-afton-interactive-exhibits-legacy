@@ -1,0 +1,1814 @@
+<?xml version="1.0"?>
+<Set>
+  <Topic Name="General Astronomy 1" Enable="True" NumberOfQuestion="5">
+    <Question Name="1">
+      <Statement>How many planets are there in the solar system?</Statement>
+      <Choices>
+        <Option NumberResponse="0">6</Option>
+        <Option NumberResponse="7" correct="Yes">8</Option>
+        <Option NumberResponse="1">10</Option>
+        <Option NumberResponse="0">Thousands</Option>
+      </Choices>
+      <Comment>There are eight major planets in the solar system. However, there are many small objects (like asteroids and comets) that, if counted, would bring the total into the thousands.</Comment>
+    </Question>
+    <Question Name="2">
+      <Statement>Which planet is the largest?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Mercury</Option>
+        <Option NumberResponse="1">Saturn</Option>
+        <Option NumberResponse="6" correct="Yes">Jupiter</Option>
+        <Option NumberResponse="2">Vulcan</Option>
+      </Choices>
+      <Comment>Jupiter is by far the largest planet in the solar system. It is large enough to hold 1,000 Earths. If Jupiter had been a little larger, it probably would have become a star.</Comment>
+    </Question>
+    <Question Name="3">
+      <Statement>Which planet is now furthest from the sun?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Jupiter</Option>
+        <Option NumberResponse="5" correct="Yes">Neptune</Option>
+        <Option NumberResponse="0">Pluto</Option>
+        <Option NumberResponse="0">Vesta</Option>
+      </Choices>
+      <Comment>Normally Pluto is furthest from the sun. However, because of the shape of its orbit, Pluto will be a little closer to the sun than Neptune until about 1998.</Comment>
+    </Question>
+    <Question Name="4">
+      <Statement>How many planets have rings?</Statement>
+      <Choices>
+        <Option NumberResponse="0">None</Option>
+        <Option NumberResponse="0">10</Option>
+        <Option NumberResponse="4" correct="Yes">4 </Option>
+        <Option NumberResponse="3">3</Option>
+      </Choices>
+      <Comment>Saturn has the brightest and most beautiful rings system. In the last few years, Jupiter, Uranus, and Neptune were also found to have rings, bringing the total to 4.</Comment>
+    </Question>
+    <Question Name="5">
+      <Statement>What is the smallest planet?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Earth</Option>
+        <Option NumberResponse="0">Mars</Option>
+        <Option NumberResponse="2" correct="Yes">Mercury</Option>
+        <Option NumberResponse="1">Saturn</Option>
+      </Choices>
+      <Comment>Mercury is the smallest planet in the solar system. It is slightly larger than Earth's moon.</Comment>
+    </Question>
+    <Question Name="6">
+      <Statement>How close is the nearest star to the sun?</Statement>
+      <Choices>
+        <Option NumberResponse="0">About 10 million miles</Option>
+        <Option NumberResponse="0">About 1 billion miles</Option>
+        <Option NumberResponse="0">About 1 trillion miles</Option>
+        <Option NumberResponse="5" correct="Yes">About 25 trillion miles</Option>
+      </Choices>
+      <Comment>The closest star to the sun is Alpha Centauri at a distance of 4.3 light years. Since there are about 6 trillion miles in one light year, this makes its distance about 25 trillion miles.</Comment>
+    </Question>
+    <Question Name="7">
+      <Statement>How large is the sun?</Statement>
+      <Choices>
+        <Option NumberResponse="0">80 thousand miles across</Option>
+        <Option NumberResponse="5" correct="Yes">800 thousand miles across</Option>
+        <Option NumberResponse="0">8 million miles across</Option>
+        <Option NumberResponse="1">8 billion miles across</Option>
+      </Choices>
+      <Comment>The sun's diameter is about 100 times the Earth's diameter which is 8,000 miles across. This means that the sun is large enough to hold about 1 million Earth's inside.</Comment>
+    </Question>
+    <Question Name="8">
+      <Statement>How many stars does our galaxy contain?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Hundreds</Option>
+        <Option NumberResponse="1">Thousands</Option>
+        <Option NumberResponse="0">Millions</Option>
+        <Option NumberResponse="3" correct="Yes">Billions</Option>
+      </Choices>
+      <Comment>The best count we have so far indicates that our Milky Way galaxy contains about 400 billion stars. This is about average for a spiral galaxy.</Comment>
+    </Question>
+    <Question Name="9">
+      <Statement>What is the most common element in the universe?</Statement>
+      <Choices>
+        <Option NumberResponse="9" correct="Yes">Hydrogen</Option>
+        <Option NumberResponse="0">Oxygen</Option>
+        <Option NumberResponse="1">Carbon</Option>
+        <Option NumberResponse="0">Iron</Option>
+      </Choices>
+      <Comment>Hydrogen is by far the most common element in the universe. Out of every 100 atoms, 90 are hydrogen, 9 are helium. The rest of the elements make up the final 1 per cent.</Comment>
+    </Question>
+    <Question Name="10">
+      <Statement>How old is the universe?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Thousands of years</Option>
+        <Option NumberResponse="0">Millions of years</Option>
+        <Option NumberResponse="3" correct="Yes">Billions of Years</Option>
+        <Option NumberResponse="0">Infinite</Option>
+      </Choices>
+      <Comment>There is a lot of debate about whether the universe is infinite or not. The best explanation we have suggests that the universe came into being a few billion years ago.</Comment>
+    </Question>
+    <Question Name="11">
+      <Statement>intelligent life exits in the universe?</Statement>
+      <Choices>
+        <Option NumberResponse="5" correct="Yes">Yes</Option>
+        <Option NumberResponse="0">No</Option>
+        <Option NumberResponse="0">Maybe</Option>
+      </Choices>
+      <Comment>Of course intelligent life exists. It exists right here on Earth. Come to think of it, some people may disagree with that statement.</Comment>
+    </Question>
+    <Question Name="12">
+      <Statement>How hot is the sun's surface?</Statement>
+      <Choices>
+        <Option NumberResponse="2">1 thousand degrees F</Option>
+        <Option NumberResponse="5" correct="Yes">10 thousand degrees F</Option>
+        <Option NumberResponse="1">100 thousand degrees F</Option>
+        <Option NumberResponse="0">1 milion degrees F</Option>
+      </Choices>
+      <Comment>The sun's surface temperature of 10 thousand degrees F makes it a warm star as stars go. The hottest stars have surface temperaturesd of over 50 thousand degrees F</Comment>
+    </Question>
+    <Question Name="13">
+      <Statement>How hot is the sun's center?</Statement>
+      <Choices>
+        <Option NumberResponse="0">10 thousand degrees F</Option>
+        <Option NumberResponse="2">100 thousand degrees F</Option>
+        <Option NumberResponse="0">1 million degrees F</Option>
+        <Option NumberResponse="7" correct="Yes">10 million degrees F</Option>
+      </Choices>
+      <Comment>The 10 million degree temperature of the sun's interior is caused by the pressure generated by the suns's tremendous gravity. This high temperature keeps the sun completely gaseous.</Comment>
+    </Question>
+    <Question Name="14">
+      <Statement>How many galaxies are there?</Statement>
+      <Choices>
+        <Option NumberResponse="0">One</Option>
+        <Option NumberResponse="1">Hundreds</Option>
+        <Option NumberResponse="0">Millions</Option>
+        <Option NumberResponse="3" correct="Yes">Billions</Option>
+      </Choices>
+      <Comment>Just as a galaxy is made up of billions of stars, so the universe is made up of billions of galaxies.</Comment>
+    </Question>
+    <Question Name="15">
+      <Statement>Where is Earth located in the Milky Way galaxy?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Near the center</Option>
+        <Option NumberResponse="3" correct="Yes">In a spiral arm, near the outskirts</Option>
+        <Option NumberResponse="0">Outside the galaxy</Option>
+        <Option NumberResponse="0">In the galatic halo</Option>
+      </Choices>
+      <Comment>Earth is located about two-thirds of the distance from the center of the galaxy to its edge. This makes Earth about 30 thousand light years away from the center of our galaxy.</Comment>
+    </Question>
+    <Question Name="16">
+      <Statement>Which color star is most likely to be very young ?</Statement>
+      <Choices>
+        <Option NumberResponse="0">red</Option>
+        <Option NumberResponse="6" correct="Yes">blue</Option>
+        <Option NumberResponse="0">yellow</Option>
+      </Choices>
+      <Comment>Since they're blue, these stars are hotter than red or yellow stars and they live shorter lives. Thus if a star is blue, it must not have been around very long.</Comment>
+    </Question>
+    <Question Name="17">
+      <Statement>Comets can best be described as:</Statement>
+      <Choices>
+        <Option NumberResponse="1">Distant planets</Option>
+        <Option NumberResponse="1">Shooting stars</Option>
+        <Option NumberResponse="2" correct="Yes">Huge snowballs</Option>
+        <Option NumberResponse="1">Large chunks of solid rock</Option>
+      </Choices>
+      <Comment>Comets are made up of ice, rock, gas, and dust; all frozen together due to very low Temperatures in space. They resemble big, dirty snowballs.</Comment>
+    </Question>
+    <Question Name="18">
+      <Statement>Which of the following is NOT one of the large, gaseous planets ?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Jupiter</Option>
+        <Option NumberResponse="8" correct="Yes">Mars</Option>
+        <Option NumberResponse="1">Saturn</Option>
+        <Option NumberResponse="0">Uranus</Option>
+      </Choices>
+      <Comment>Mars is mostly rock, making it a 'terrestrial' type planet, like the Earth. The other planets listed are 'Jovian', meaning they resemble Jupiter, which is made of mostly gas.</Comment>
+    </Question>
+    <Question Name="19">
+      <Statement>About how old is the solar system ?</Statement>
+      <Choices>
+        <Option NumberResponse="1">6,000 years</Option>
+        <Option NumberResponse="1">2 million years</Option>
+        <Option NumberResponse="6" correct="Yes">4-5 billion years</Option>
+        <Option NumberResponse="0">15-20 billion years</Option>
+      </Choices>
+      <Comment>The best evidence we have from the study of Earth rocks, moon rocks, and meteorites indicates the solar system was formed about 4-1/2 billion years ago.</Comment>
+    </Question>
+    <Question Name="20">
+      <Statement>If the entire history of the universe were compressed in a single "cosmic year", about how long ago did human beings appear on Earth ?</Statement>
+      <Choices>
+        <Option NumberResponse="1">A few seconds</Option>
+        <Option NumberResponse="1">A few minutes</Option>
+        <Option NumberResponse="1" correct="Yes">A few hours</Option>
+        <Option NumberResponse="0">A few days</Option>
+      </Choices>
+      <Comment>If the 15 billion year history of the universe were compressed into a single "cosmic year", human beings would have appeared about 10:30 p.m. on December 31, the last day of the year.</Comment>
+    </Question>
+    <Question Name="21">
+      <Statement>A shooting or falling star is really a:</Statement>
+      <Choices>
+        <Option NumberResponse="1">Star falling from the sky</Option>
+        <Option NumberResponse="1">Comet</Option>
+        <Option NumberResponse="3" correct="Yes">Rock burning up in the Earth's atmosphere</Option>
+      </Choices>
+      <Comment>Most shooting stars (meteors) are bits of rock about the size of a pin head. When they hit the atmosphere at high speed, they burn up, leaving a bright streak in the sky.</Comment>
+    </Question>
+    <Question Name="22">
+      <Statement>The rings of Saturn are made of :</Statement>
+      <Choices>
+        <Option NumberResponse="0">Several sheets of solid ice</Option>
+        <Option NumberResponse="4" correct="Yes">Trillions of individual chunks of ice and rock</Option>
+        <Option NumberResponse="2">Gases</Option>
+        <Option NumberResponse="1">Saturn does not have rings</Option>
+      </Choices>
+      <Comment>Close passages by spacecraft have shown that Saturn's rings are made up of many small chunks of ice and rock.</Comment>
+    </Question>
+    <Question Name="23">
+      <Statement>Constellations are :</Statement>
+      <Choices>
+        <Option NumberResponse="0">Physical groups of stars</Option>
+        <Option NumberResponse="0">Objects which affect events of Earth</Option>
+        <Option NumberResponse="6" correct="Yes">Figments of our imagination</Option>
+      </Choices>
+      <Comment>Constellation are pictures we draw in our minds by making patterns of stars. Sort of a cosmic connect-the-dot picture. Other cultures see different pictures and have different names.</Comment>
+    </Question>
+    <Question Name="24">
+      <Statement>For every dollar spent on space exploration, about how much is returned to national economy ?</Statement>
+      <Choices>
+        <Option NumberResponse="0">$.10</Option>
+        <Option NumberResponse="0">$.75</Option>
+        <Option NumberResponse="0">$1.50</Option>
+        <Option NumberResponse="7" correct="Yes">$7.00</Option>
+      </Choices>
+      <Comment>The space program is a good bargain. Many every day products, such as "Teflon", graphite materials, and various plastics were invented or perfected for use in the space program.</Comment>
+    </Question>
+    <Question Name="25">
+      <Statement>A galaxy is:</Statement>
+      <Choices>
+        <Option NumberResponse="0">A large cloud of gas</Option>
+        <Option NumberResponse="1">A very distant star</Option>
+        <Option NumberResponse="6" correct="Yes">A collection of billions of stars</Option>
+      </Choices>
+      <Comment>Galaxies are typically made up of a few hundred billion stars. The largest galaxies are giant elliptical galaxies, some of which may contain a trillion stars.</Comment>
+    </Question>
+    <Question Name="26">
+      <Statement>The diameter of the Earth is about:</Statement>
+      <Choices>
+        <Option NumberResponse="0">800 miles</Option>
+        <Option NumberResponse="3" correct="Yes">8,000 miles</Option>
+        <Option NumberResponse="0">80,000 miles</Option>
+        <Option NumberResponse="2">80,000 feet</Option>
+      </Choices>
+      <Comment>The 8,000 mile diameter of the Earth makes it a medium-sized planet. Mercury, Venus, Mars and Pluto are all smaller than the Earth. Jupiter, Saturn, Uranus, and Nepture are all larger.</Comment>
+    </Question>
+    <Question Name="27">
+      <Statement>The Earth is shaped most nearly like a:</Statement>
+      <Choices>
+        <Option NumberResponse="7" correct="Yes">Basketball</Option>
+        <Option NumberResponse="0">Football</Option>
+        <Option NumberResponse="0">Lemon</Option>
+        <Option NumberResponse="1">Pencil</Option>
+      </Choices>
+      <Comment>The proper name of the shape of the Earth is an "oblate spheroid", which is just a fancy name for a somewhat squashed ball. This shape resembles a basketball that is slightly </Comment>
+    </Question>
+  </Topic>
+  <Topic Name="General Astronomy 2" Enable="True" NumberOfQuestion="5">
+    <Question Name="1">
+      <Statement>Day and night are caused by:</Statement>
+      <Choices>
+        <Option NumberResponse="1">The revolution of the Sun</Option>
+        <Option NumberResponse="0">The moon in its orbit</Option>
+        <Option NumberResponse="1">The revolution of the Earth around the Sun</Option>
+        <Option NumberResponse="4" correct="Yes">The spinning of the Earth about its axis</Option>
+      </Choices>
+      <Comment>As the Earth rotates about its axis, different parts of the Earth face the Sun and face away from the Sun. This causes alternating day and night.</Comment>
+    </Question>
+    <Question Name="2">
+      <Statement>Who first suggested that the planets move around the Sun, not the Earth?</Statement>
+      <Choices>
+        <Option NumberResponse="7" correct="Yes">Copernicus</Option>
+        <Option NumberResponse="0">Kepler</Option>
+        <Option NumberResponse="0">Newton</Option>
+        <Option NumberResponse="0">Einstein</Option>
+      </Choices>
+      <Comment>Copernicus published a book that gave a model for a solar system that was centered on the Sun (heliocentric).</Comment>
+    </Question>
+    <Question Name="3">
+      <Statement>Craters on the moon are due to:</Statement>
+      <Choices>
+        <Option NumberResponse="1">Volcanoes now extinct</Option>
+        <Option NumberResponse="0">The collapse of soft soil beneath the surface</Option>
+        <Option NumberResponse="6" correct="Yes">The impact of large rocks</Option>
+        <Option NumberResponse="0">UFO hangers</Option>
+      </Choices>
+      <Comment>During its formation, the moon was bombarded by many objects, large and small. The larger of these objects left the craters that we can see on the surface of the moon.</Comment>
+    </Question>
+    <Question Name="4">
+      <Statement>The atmosphere of Earth is composed mostly of:</Statement>
+      <Choices>
+        <Option NumberResponse="0">Oxygen</Option>
+        <Option NumberResponse="7" correct="Yes">Nitrogen</Option>
+        <Option NumberResponse="1">Water vapor</Option>
+        <Option NumberResponse="0">Carbon dioxide</Option>
+      </Choices>
+      <Comment>Nitrogen makes up 77 per cent of our atmosphere. Oxygen makes 21 per cent and all other gases make up the remaining 2 per cent.</Comment>
+    </Question>
+    <Question Name="5">
+      <Statement>Which Galilean satellite of Jupiter has several active volcanoes?</Statement>
+      <Choices>
+        <Option NumberResponse="8" correct="Yes">Io</Option>
+        <Option NumberResponse="0">Ganymede</Option>
+        <Option NumberResponse="0">Europa</Option>
+        <Option NumberResponse="0">Gallisto</Option>
+      </Choices>
+      <Comment>The Voyager spacecraft took pictures of volcanoes erupting on Io. This was the first sign of active voIcanism found other than on Earth.</Comment>
+    </Question>
+    <Question Name="6">
+      <Statement>The Orion Nebula (depicted in the mural as you enter the Observatory) is:</Statement>
+      <Choices>
+        <Option NumberResponse="0">The remains of a star which exploded</Option>
+        <Option NumberResponse="1">A star in the process of forming</Option>
+        <Option NumberResponse="7" correct="Yes">A region in which many stars are forming</Option>
+        <Option NumberResponse="0">A nearby galaxy</Option>
+      </Choices>
+      <Comment>The Orion Nebula is a huge region of gas and dust. Parts of this cloud of material are collapsing and forming new stars, making the Orion Nebula a "stellar nursery", where new stars are born.</Comment>
+    </Question>
+    <Question Name="7">
+      <Statement>If a star is 100 light years away from us, how long does it take its light to reach us?</Statement>
+      <Choices>
+        <Option NumberResponse="0">It arrives instantly</Option>
+        <Option NumberResponse="1">100 seconds</Option>
+        <Option NumberResponse="0">186 thousand seconds</Option>
+        <Option NumberResponse="6" correct="Yes">100 years</Option>
+      </Choices>
+      <Comment>A light year is simply the distance light travels in a year's time, which is about 6 trillion miles. It is a unit of distance, not time.</Comment>
+    </Question>
+    <Question Name="8">
+      <Statement>About how long would it take the Voyager spacecraft - the fastest manmade objects launched so far - to travel to the nearest star?</Statement>
+      <Choices>
+        <Option NumberResponse="0">They have already traveled that far</Option>
+        <Option NumberResponse="0">About 800 years</Option>
+        <Option NumberResponse="7" correct="Yes">About 40,000 years</Option>
+        <Option NumberResponse="0">About a million years</Option>
+      </Choices>
+      <Comment>If the Voyager spacecraft were aimed at the nearest star, it would take 40,000 years to get there. However, they're not aimed in that direction. Thus they may never pass near another star.</Comment>
+    </Question>
+    <Question Name="9">
+      <Statement>What is the main source of the Sun's energy?</Statement>
+      <Choices>
+        <Option NumberResponse="0">Gravity</Option>
+        <Option NumberResponse="0">Chemical reactions</Option>
+        <Option NumberResponse="0">The nuclear fission of uranium</Option>
+        <Option NumberResponse="7" correct="Yes">Nuclear fusion of hydrogen into helium</Option>
+      </Choices>
+      <Comment>Nuclear fusion makes the Sun shine. The high temperatures at the Sun's center allow a process that converts hydrogen into helium, releasing energy in the process. All stars shine by this method.</Comment>
+    </Question>
+    <Question Name="10">
+      <Statement>When the sun dies it will become a:</Statement>
+      <Choices>
+        <Option NumberResponse="6" correct="Yes">White dwarf</Option>
+        <Option NumberResponse="0">Supernova</Option>
+        <Option NumberResponse="0">Neutron star</Option>
+        <Option NumberResponse="0">Black hole</Option>
+      </Choices>
+      <Comment>When the sun consumes its hydrogen fuel, it will first expand into a red giant, which is a large, cool star. It will eventually collapse into a hot, small star called a white dwarf.</Comment>
+    </Question>
+    <Question Name="11">
+      <Statement>A planetary nebula is:</Statement>
+      <Choices>
+        <Option NumberResponse="0">The remains of an exploded star</Option>
+        <Option NumberResponse="1">A planet such as Neptune or Pluto</Option>
+        <Option NumberResponse="7" correct="Yes">A star which has puffed off its outer layers</Option>
+        <Option NumberResponse="1">A cloud from which a star planets form</Option>
+      </Choices>
+      <Comment>A planetary nebula is formed when a dying star puffs off some of the material in its outer layers. Their name arises because they resemble a planet's disk with viewed through a telescope.</Comment>
+    </Question>
+  </Topic>
+  <Topic Name="Black Hole" Enable="True">
+    <Group Type="DiscoveryQuestion" Name="1">
+      <Question Name="1">
+        <Statement>What keeps Earth and the other planets in orbit around the sun?</Statement>
+        <Choices>
+          <Option NumberResponse="0">the sun's light</Option>
+          <Option NumberResponse="3" correct="Yes">the sun's gravity</Option>
+          <Option NumberResponse="1">each planet's gravity</Option>
+          <Option NumberResponse="0">the sun's magnetic field</Option>
+        </Choices>
+        <Comment>If it were not for the sun's gravity, the planets would fly off into space in different directions.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>As you move toward the Sun, the strength of the Sun's gravity that you feel:</Statement>
+        <Choices>
+          <Option NumberResponse="4" correct="Yes">Increases</Option>
+          <Option NumberResponse="0">Decreases</Option>
+          <Option NumberResponse="0">Doesn't Change</Option>
+        </Choices>
+        <Comment>This is like moving toward a light. As you move toward a light it appears to get brighter. In the same way, as you move toward the sun, the gravity you feel increases.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>Although the Sun's gravity appears to increase as you move toward the Sun, does the amount of gravity the Sun possesses really change?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Yes</Option>
+          <Option NumberResponse="4" correct="Yes">No</Option>
+          <Option NumberResponse="0">Only under some circumstances</Option>
+        </Choices>
+        <Comment>Although a light appears to get brighter as you approach it, it's not really changing. This also applies to the Sun's gravity.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>What determines the strength of the Sun's gravity?</Statement>
+        <Choices>
+          <Option NumberResponse="0">It's temperature</Option>
+          <Option NumberResponse="1">It's size</Option>
+          <Option NumberResponse="3" correct="Yes">It's mass</Option>
+          <Option NumberResponse="0">It's age</Option>
+        </Choices>
+        <Comment>Only the mass of an object determines how much gravity it has.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>If the Sun were replaced by a black hole with the same mass as the Sun, the Earth will</Statement>
+        <Choices>
+          <Option NumberResponse="0">Be sucked in</Option>
+          <Option NumberResponse="0">Fly off into space</Option>
+          <Option NumberResponse="1">Get smaller</Option>
+          <Option NumberResponse="3" correct="Yes">Continue to orbit around the black hole just like it orbits around the sun</Option>
+        </Choices>
+        <Comment>Since the masses of the sun and black hole are the same and the distances between the Earth and object are the same; the gravity Earth feels doesn't change. Hence Earth's orbit is the same.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="2">
+      <Question Name="1">
+        <Statement>Astronomers look for ____ in locating a black hole.</Statement>
+        <Choices>
+          <Option NumberResponse="0">The speed you must go to start moving.</Option>
+          <Option NumberResponse="0">Light</Option>
+          <Option NumberResponse="0">Cosmic Rays</Option>
+          <Option NumberResponse="4" correct="Yes">X-Rays</Option>
+          <Option NumberResponse="0">Gamma-Rays</Option>
+        </Choices>
+        <Comment>Since X-Rays don't pass through Earth's atmosphere, they must be detected from space. This is the reason we've found black holes only within the past 15-20 years.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The X-rays given off by the black hole come from this part of the black hole.</Statement>
+        <Choices>
+          <Option NumberResponse="0">Singularity</Option>
+          <Option NumberResponse="0">Companion star</Option>
+          <Option NumberResponse="0">Event horizon</Option>
+          <Option NumberResponse="4" correct="Yes">Accretion disk</Option>
+        </Choices>
+        <Comment>Since the accretion disk lies outside the actual black hole, the X-rays can escape.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>The material in the accretion disk comes from</Statement>
+        <Choices>
+          <Option NumberResponse="4" correct="Yes">a companion star</Option>
+          <Option NumberResponse="0">the singularity</Option>
+          <Option NumberResponse="0">the event horizon</Option>
+          <Option NumberResponse="0">no where in particular</Option>
+        </Choices>
+        <Comment>If a black hole and star orbit each other close enough, the black hole's gravity can pull gas off the companion star. This gas forms the accretion disk.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The temperature of the gas in the accretion disk is:</Statement>
+        <Choices>
+          <Option NumberResponse="0">10 thousand degrees F</Option>
+          <Option NumberResponse="0">100 thousand degrees F</Option>
+          <Option NumberResponse="0">1 million degrees F</Option>
+          <Option NumberResponse="4" correct="Yes">10 million degrees F</Option>
+        </Choices>
+        <Comment>As the gas in the accretion disk spirals into the black hole it heats up to a temperature of 10 million degrees. At this temperature, the gas gives off X-rays.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Which of the following also has a temperature of 10 million degrees Fahrenheit?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Blue star's surface</Option>
+          <Option NumberResponse="4" correct="Yes">Sun's center</Option>
+          <Option NumberResponse="0">Earth's center</Option>
+          <Option NumberResponse="0">Sun's surface</Option>
+        </Choices>
+        <Comment>Temperatures this high are needed to maintain the reactions which provide the sun with its energy.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="3">
+      <Question Name="1">
+        <Statement>What is escape velocity?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The speed you must go to start moving.</Option>
+          <Option NumberResponse="0">Has nothing to do with escaping or with speed.</Option>
+          <Option NumberResponse="0">The speed of light.</Option>
+          <Option NumberResponse="3" correct="Yes">The speed you must go to overcome an object's gravity</Option>
+        </Choices>
+        <Comment>In order for a space craft to leave Earth, it must travel faster than Earth's escape velocity.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>What is Earth's escape velocity?</Statement>
+        <Choices>
+          <Option NumberResponse="0">17,500 miles per hour</Option>
+          <Option NumberResponse="3" correct="Yes">25,000 miles per hour</Option>
+          <Option NumberResponse="0">50,000 miles per hour</Option>
+          <Option NumberResponse="0">186,000 miles per second</Option>
+        </Choices>
+        <Comment>This means if you jumped up with a velocity of 25,000 miles per hour, you would not come back down.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>What is the escape velocity of a black hole?</Statement>
+        <Choices>
+          <Option NumberResponse="0">25,000 miles per hour</Option>
+          <Option NumberResponse="0">100,000 miles per hour</Option>
+          <Option NumberResponse="0">186,000 miles per second (speed of light)</Option>
+          <Option NumberResponse="3" correct="Yes">more than 186,000 miles per second</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>What is the fastest speed an object in the universe can travel?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The speed of sound</Option>
+          <Option NumberResponse="0">Speed of the space shuttle</Option>
+          <Option NumberResponse="3" correct="Yes">The speed of light</Option>
+          <Option NumberResponse="0">Warp 10</Option>
+        </Choices>
+        <Comment>Einstein's theory of relativity states that nothing can travel faster than the speed of light (186,000 miles per second). This means that warp 10 is pure science fiction. Sorry!</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Once an object is in a black hole, why can it never leave?</Statement>
+        <Choices>
+          <Option NumberResponse="3" correct="Yes">The escape velocity of the black hole is greater than the speed of light</Option>
+          <Option NumberResponse="0">It likes it in the black hole</Option>
+          <Option NumberResponse="0">The object needs something to pull it out</Option>
+          <Option NumberResponse="0">The question is wrong; the object can leave.</Option>
+        </Choices>
+        <Comment>Since nothing can travel faster than the speed of light, the object is forever trapped in the black hole.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="4">
+      <Question Name="1">
+        <Statement>Where is Earth's gravity strongest: on the 1st floor of a building or on the 10th floor?</Statement>
+        <Choices>
+          <Option NumberResponse="9" correct="Yes">1st floor</Option>
+          <Option NumberResponse="0">10th floor</Option>
+          <Option NumberResponse="1">The strength of Earth's gravity is the same on both floors.</Option>
+        </Choices>
+        <Comment>Although Earth's gravity is only slightly stronger on the 1st floor, it is stronger.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>You have two very accurate clocks; one on the 1st floor of a building and the other on the 10th floor. After a few weeks:</Statement>
+        <Choices>
+          <Option NumberResponse="0">The clock on the 1st floor will be ahead of the clock on the 10th floor.</Option>
+          <Option NumberResponse="9" correct="Yes">The clock on the 1st floor will be behind the clock on the 10th floor.</Option>
+          <Option NumberResponse="1">Both clocks will read the same.</Option>
+        </Choices>
+        <Comment>Einstein's theories tell us that time moves slower where gravity is stronger. Since gravity is stronger on the 1st floor, that clock will slow down and fall behind the one on the 10th floor.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>Where is the gravity of a black hole the strongest?</Statement>
+        <Choices>
+          <Option NumberResponse="10" correct="Yes">10 miles above the black hole</Option>
+          <Option NumberResponse="0">1,000 miles above the black hole</Option>
+          <Option NumberResponse="0">100,000 miles above the black hole</Option>
+          <Option NumberResponse="0">10 million miles above the black hole</Option>
+        </Choices>
+        <Comment>Just as the strength of Earth's gravity increases the closer you get to Earth; a black hole's gravity gets stronger the closer you get to the black hole.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>An astronaut, carrying a clock, leaves a spaceship near a black hole. As the astronaut falls toward the black hole you notice that the clock</Statement>
+        <Choices>
+          <Option NumberResponse="0">speeds up compared to your clock.</Option>
+          <Option NumberResponse="10" correct="Yes">slows down compared to your clock.</Option>
+          <Option NumberResponse="0">reads the same as your clock.</Option>
+        </Choices>
+        <Comment>As the astronaut moves closer to the black hole, the black hole's gravity increases. As the gravity increases, time slows down; so the astronaut's clock falls behind your clock on the ship.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>You continue to watch this astronaut fall toward the black hole. Do you ever see the astronaut actually enter the black hole?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Yes</Option>
+          <Option NumberResponse="10" correct="Yes">No</Option>
+          <Option NumberResponse="0">Only under some conditions</Option>
+        </Choices>
+        <Comment>The closer the astronaut gets to the black hole, the slower time moves. At the event horizon, time stops. So although the astronauts sees himself enter the black hole, you will not.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="5">
+      <Question Name="1">
+        <Statement>If you are standing on Earth and decide to jump up, you are pulled back down to the ground. What pulls you back?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The air pushes you back down</Option>
+          <Option NumberResponse="0">Earth's magnetic field</Option>
+          <Option NumberResponse="3" correct="Yes">Gravity</Option>
+          <Option NumberResponse="0">An unknown force</Option>
+        </Choices>
+        <Comment>Gravity is a property of all matter. Even you possess gravity; however it's very, very, small.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>What determines the strength of the Earth's gravity at its surface?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The Earth's size</Option>
+          <Option NumberResponse="0">How much material the Earth contains (its mass)</Option>
+          <Option NumberResponse="0">The size of the object being held in place.</Option>
+          <Option NumberResponse="3" correct="Yes">Both A and B (size and mass)</Option>
+        </Choices>
+        <Comment>The strength of gravity you feel on Earth's surface depends on the amount of matter contained within Earth, and the distance between you and each piece of matter.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>The planet Vulcan is half the size of the Earth, but contains the same amount of material as Earth. The gravity at the surface of Vulcan is</Statement>
+        <Choices>
+          <Option NumberResponse="0" correct="Yes">greater than the gravity at Earth's surface.</Option>
+          <Option NumberResponse="1">less than the gravity at Earth's surface.</Option>
+          <Option NumberResponse="2">the same as the gravity at Earth's surface.</Option>
+          <Option NumberResponse="0">we have no way of knowing.</Option>
+        </Choices>
+        <Comment>Remember that the closer you are to matter, the stronger its gravity. Since Vulcan is smaller than Earth, you are closer to the matter which makes it up; thus Vulcan's gravity is stronger.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The planet Mizaria is twice the size of Earth, but like Vulcan, it has the same amount of material as Earth. Mizaria's surface gravity strength is</Statement>
+        <Choices>
+          <Option NumberResponse="1">the same as at Earth's surface</Option>
+          <Option NumberResponse="1" correct="Yes">less than at Earth's surface</Option>
+          <Option NumberResponse="1">more than at Earth's surface</Option>
+        </Choices>
+        <Comment>Since Mizaria is bigger than Earth, you are farther away from the material which makes up Mizaria. Thus the strength of gravity is less.</Comment>
+      </Question>
+    </Group>
+  </Topic>
+  <Topic Name="Distance" Enable="True">
+    <Group Type="DiscoveryQuestion" Name="1">
+      <Question Name="1">
+        <Statement>Hold your finger in front of your face and close your left eye. Now close your right eye and open your left. Repeat. What do you see?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Nothing</Option>
+          <Option NumberResponse="3" correct="Yes">Your finger appears to move when compared to more distant objects</Option>
+          <Option NumberResponse="0">Your head moves</Option>
+          <Option NumberResponse="1">The distant objects appear to move</Option>
+        </Choices>
+        <Comment>This effect (your finger appearing to move) is called parallax.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>If you knew the distance between your eyes, measured how much your finger appeared to move, and did a little math, you could find</Statement>
+        <Choices>
+          <Option NumberResponse="0">the distance between your finger and the more distant objects</Option>
+          <Option NumberResponse="4" correct="Yes">the distance between your finger and your face</Option>
+          <Option NumberResponse="0">the distance between your finger and thumb</Option>
+          <Option NumberResponse="0">none of the above.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If you were to hold your finger farther from your face and alternately open and close your eyes, your finger appears to move</Statement>
+        <Choices>
+          <Option NumberResponse="0">the same amount</Option>
+          <Option NumberResponse="4" correct="Yes">less</Option>
+          <Option NumberResponse="0">more</Option>
+          <Option NumberResponse="0">can't tell</Option>
+        </Choices>
+        <Comment>The farther you move your finger away from your face, the less it appears to move. If you wanted it to move as much as it did when it was close to your face, you must move your eyes farther apart.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>When astronomers use this technique to find the distance to a star, they don't look first with one eye and then the other, they look from</Statement>
+        <Choices>
+          <Option NumberResponse="0">opposite sides of Earth</Option>
+          <Option NumberResponse="4" correct="Yes">opposite sides of Earth's orbit (say once in January and again in July)</Option>
+          <Option NumberResponse="0">this technique cannot be used with stars</Option>
+        </Choices>
+        <Comment>Star are so far away that in order to get even the nearby ones to show any movement, they must be observed from two places that are far from each other. This method is called parallax.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>What kind of stars do you think the parallax method (the method we've been discussing) works with?</Statement>
+        <Choices>
+          <Option NumberResponse="3" correct="Yes">Only the nearest stars (up to 300 light years).</Option>
+          <Option NumberResponse="1">Stars up to 5,000 light years away.</Option>
+          <Option NumberResponse="0">Stars up to 25,000 light years away.</Option>
+          <Option NumberResponse="0">any star in the galaxy.</Option>
+        </Choices>
+        <Comment>Even the nearest star has a parallax that is less than 1/3600th of a degree. Remember that there are 360 degrees in a circle, so that we are talking about a very small angle.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="2">
+      <Question Name="1">
+        <Statement>You have two identical 100 watt light bulbs A and B.  If they are next to each other you observe that</Statement>
+        <Choices>
+          <Option NumberResponse="0">A and B are at the same distance</Option>
+          <Option NumberResponse="0">A and B are the same brightness</Option>
+          <Option NumberResponse="2" correct="Yes">Both A and B</Option>
+          <Option NumberResponse="0">Neither A or B</Option>
+        </Choices>
+        <Comment>If the light bulbs are identical and next to each other then they will be the same brightness.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>You still have two identical light bulbs, but now A appears dimmer than B. You conclude that</Statement>
+        <Choices>
+          <Option NumberResponse="0">A must be closer to you than B</Option>
+          <Option NumberResponse="2" correct="Yes">A must be farther away from you than B</Option>
+          <Option NumberResponse="0">A and B are the same distance away</Option>
+          <Option NumberResponse="0">you don't know anything about the two bulbs</Option>
+        </Choices>
+        <Comment>As a light moves farther away from you it appears to get dimmer.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If light bulb A is one-fourth as bright as light bulb B, then A is ____ as far away as B</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">twice</Option>
+          <Option NumberResponse="0">four times</Option>
+          <Option NumberResponse="0">ten times</Option>
+          <Option NumberResponse="0">you can't tell</Option>
+        </Choices>
+        <Comment>As the distance between you and a moving light doubles, the brightness of the light decreases by a factor of 4.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>You see two stars in the sky which have the same properties, but one is brighter than the other. This difference in brightness is due to</Statement>
+        <Choices>
+          <Option NumberResponse="0">one star being bigger than the other.</Option>
+          <Option NumberResponse="0">one star being hotter than the other.</Option>
+          <Option NumberResponse="2" correct="Yes">one star being farther away than the other.</Option>
+          <Option NumberResponse="0">some unkown cause.</Option>
+        </Choices>
+        <Comment>Since the two stars have the same properties, they must be the same size and have the same temperature. Therefore the difference in brightness is due to distance.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>You see two identical stars. Alpha and Beta, which have identical properties. Beta is one-fourth as bright as Alpha. If Alpha is 10 light years away,</Statement>
+        <Choices>
+          <Option NumberResponse="0">Beta is 10 light years away.</Option>
+          <Option NumberResponse="1" correct="Yes">Beta is 20 light years away.</Option>
+          <Option NumberResponse="1">Beta is 40 light years away.</Option>
+          <Option NumberResponse="0">Beta's distance cannot be determined.</Option>
+        </Choices>
+        <Comment>Remember that a light which is twice as far away is one-fourth as bright. So a star (Beta) which is one-fourth as bright as another star (Alpha) must be twice as far away as that star.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="3">
+      <Question Name="1">
+        <Statement>Astronomers who look at distant galaxies find that they are</Statement>
+        <Choices>
+          <Option NumberResponse="0">moving toward us.</Option>
+          <Option NumberResponse="3" correct="Yes">moving away from us.</Option>
+          <Option NumberResponse="0">moving in no particular direction</Option>
+          <Option NumberResponse="0">not moving at all</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>This movement is due to</Statement>
+        <Choices>
+          <Option NumberResponse="0">the gravitational attraction that galaxies exert on each other.</Option>
+          <Option NumberResponse="0">a magnetic repulsion between galaxies.</Option>
+          <Option NumberResponse="3" correct="Yes">the expansion of space.</Option>
+          <Option NumberResponse="0">some unknown force.</Option>
+        </Choices>
+        <Comment>As space expands, distant galaxies appear to move away from us and each other. You can observe this if you paint dots on a balloon and then blow it up. The dots move away from each other.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>More distant galaxies are moving away from us at _____ rate than nearer galaxies.</Statement>
+        <Choices>
+          <Option NumberResponse="3" correct="Yes">a faster</Option>
+          <Option NumberResponse="0">a slower</Option>
+          <Option NumberResponse="0">the same</Option>
+          <Option NumberResponse="0">none of the above</Option>
+        </Choices>
+        <Comment>More distant galaxies are being observed from a time when the universe was younger and expanding at a faster rate. Therefore those galaxies appear to be moving away faster.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The person who discovered the relationship between the speed a galaxy is moving away from us and its distance was:</Statement>
+        <Choices>
+          <Option NumberResponse="0">Copernicus</Option>
+          <Option NumberResponse="0">Tombaugh</Option>
+          <Option NumberResponse="0">Sagan</Option>
+          <Option NumberResponse="3" correct="Yes">Hubble</Option>
+        </Choices>
+        <Comment>This relationship, known as Hubble's Law states that if a galaxy is moving away at twice the speed of another galaxy, it is twice as far away.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Galaxy A is moving away from us four-times as fast as Galaxy B. According to Hubble's Law, Galaxy A is</Statement>
+        <Choices>
+          <Option NumberResponse="0">twice as far away as B</Option>
+          <Option NumberResponse="3" correct="Yes">four times as far away as B</Option>
+          <Option NumberResponse="0">sixteen times farther away as B</Option>
+          <Option NumberResponse="0">none of the above</Option>
+        </Choices>
+        <Comment>Astronomers use Hubble's law to find distances to galaxies that are more distant than 1 billion light years.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="4">
+      <Question Name="1">
+        <Statement>When we give the distance between Wichita and Kansas City, why don't we give it in feet?</Statement>
+        <Choices>
+          <Option NumberResponse="0">It's impossible to determine the number of feet to Kansas City.</Option>
+          <Option NumberResponse="0">The number of feet is very large</Option>
+          <Option NumberResponse="0">The number of miles is more convenient.</Option>
+          <Option NumberResponse="0" correct="Yes">Both B and C</Option>
+        </Choices>
+        <Comment>Kansas City is more than 1 million feet away. This number is so big that it is not very convenient to use. So we use miles instead.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>An astronomical unit is defined as the distance between the Earth and sun. How long is an astronomical unit?</Statement>
+        <Choices>
+          <Option NumberResponse="0">70 million miles</Option>
+          <Option NumberResponse="0" correct="Yes">93 million miles</Option>
+          <Option NumberResponse="0">100 million miles</Option>
+          <Option NumberResponse="0">127 million miles</Option>
+        </Choices>
+        <Comment>The astronomical unit is convenient for measuring distances in the solar system. For example, Pluto is about 40 astronomical units away from Earth.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>When astronomers measure distances to the stars they use light years. A light year is</Statement>
+        <Choices>
+          <Option NumberResponse="0">about 10 billion miles</Option>
+          <Option NumberResponse="0">about 6 trillion miles</Option>
+          <Option NumberResponse="0">the distance light, moving at 186,000 miles per second, travels in a year.</Option>
+          <Option NumberResponse="0" correct="Yes">both B and C</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>How many astronomical units are there in one light year?</Statement>
+        <Choices>
+          <Option NumberResponse="0">about 600</Option>
+          <Option NumberResponse="0">about 6 thousand</Option>
+          <Option NumberResponse="0" correct="Yes">about 60 thousand</Option>
+          <Option NumberResponse="0">about 600 thousand</Option>
+        </Choices>
+        <Comment>As you can see astronomical units become clumsy to use if astronomers talk about stars that are thousands of light years away</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>How far is it to the nearest star?</Statement>
+        <Choices>
+          <Option NumberResponse="0">100 astronomical units</Option>
+          <Option NumberResponse="0">250,000 astronomical units</Option>
+          <Option NumberResponse="0">4.3 light years</Option>
+          <Option NumberResponse="0" correct="Yes">B and C</Option>
+        </Choices>
+        <Comment>The nearest star is Alpha Centauri. Unfortunately it is not visible from most of the United States, including Kansas.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="5">
+      <Question Name="1">
+        <Statement>As you look at a star in the sky, its brightness depends on which of the following.</Statement>
+        <Choices>
+          <Option NumberResponse="0">its temperature</Option>
+          <Option NumberResponse="0">its size</Option>
+          <Option NumberResponse="0">its distance</Option>
+          <Option NumberResponse="0" correct="Yes">All of the above</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>If all stars were the same distance away from us</Statement>
+        <Choices>
+          <Option NumberResponse="0">they would all be the same brightness.</Option>
+          <Option NumberResponse="0" correct="Yes">some would be brighter and others fainter.</Option>
+          <Option NumberResponse="0">most would be brighter, but a few would be much brighter.</Option>
+          <Option NumberResponse="0">None of the above</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If two stars with identical properties (size, temperature, etc.) are the same distance away from us.</Statement>
+        <Choices>
+          <Option NumberResponse="0">one will be brighter than the other.</Option>
+          <Option NumberResponse="0">one may or may not be brighter than the other.</Option>
+          <Option NumberResponse="0" correct="Yes">they will be the same brightness.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>Alpha and Beta are two stars with identical properties. Alpha is observed to be fainter than Beta. This means that</Statement>
+        <Choices>
+          <Option NumberResponse="0">Alpha is closer than Beta.</Option>
+          <Option NumberResponse="0" correct="Yes">Alpha is farther than Beta.</Option>
+          <Option NumberResponse="0">Alpha is hotter than Beta.</Option>
+          <Option NumberResponse="0">you can't say anything about Alpha or Beta.</Option>
+        </Choices>
+        <Comment>Since the two stars are identical (same size, temperature, etc.) and Alpha is fainter, then it must also be farther away. Recall the farther a light gets from you, the fainter it gets.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>What additional information must you have to find the distance to the star Alpha in the previous question?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Alpha's size</Option>
+          <Option NumberResponse="0">How much fainter Alpha is than Beta</Option>
+          <Option NumberResponse="0" correct="Yes">The distance to Beta</Option>
+          <Option NumberResponse="0">Both B and C</Option>
+        </Choices>
+        <Comment>Again if you know how much fainter Alpha is than Beta you can figure out how much farther away Alpha is. Multiply this by the distance to Beta and you have the distance to Alpha.</Comment>
+      </Question>
+    </Group>
+    <Group Type="DiscoveryQuestion" Name="6">
+      <Question Name="1">
+        <Statement>Which of the following determines the true brightness of a star.</Statement>
+        <Choices>
+          <Option NumberResponse="0">Temperature</Option>
+          <Option NumberResponse="1" correct="Yes">Size</Option>
+          <Option NumberResponse="0">Distance</Option>
+          <Option NumberResponse="0">A and B</Option>
+        </Choices>
+        <Comment>The true brightness of a star is determined by its surface temperature, size, and chemical composition. Distance affects only the apparent brightness of a star.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The true brightness of two identical stars is:</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">the same.</Option>
+          <Option NumberResponse="0">different.</Option>
+          <Option NumberResponse="0">usually the same, but different in some cases</Option>
+          <Option NumberResponse="0">usually different, but the same in some cases.</Option>
+        </Choices>
+        <Comment>Just as two identical light bulbs are the same brightness, so are two identical stars.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>The apparent or observed brightness of a star is:</Statement>
+        <Choices>
+          <Option NumberResponse="0">the same as the true brightness.</Option>
+          <Option NumberResponse="0">how bright the star would appear in the sky if it were 10 light years away.</Option>
+          <Option NumberResponse="1" correct="Yes">how bright the star appears in the sky.</Option>
+          <Option NumberResponse="0">has nothing to do with brightness.</Option>
+        </Choices>
+        <Comment>The apparent brightness is simply how bright the star appears in the sky when you look at it.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The apparent or observed brightness of two identical stars is</Statement>
+        <Choices>
+          <Option NumberResponse="0">always the same.</Option>
+          <Option NumberResponse="0">always different.</Option>
+          <Option NumberResponse="0">usually the same, but is sometimes different.</Option>
+          <Option NumberResponse="1" correct="Yes">usually different, but is sometimes the same.</Option>
+        </Choices>
+        <Comment>The apparent or observed brightness of two stars will be the same only if they are the same distance away from us.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>When you look at two identical stars in the sky, why are their apparent brightnesses different?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The stars are different temperatures.</Option>
+          <Option NumberResponse="0">The stars are different sizes.</Option>
+          <Option NumberResponse="1" correct="Yes">The stars are different distances.</Option>
+          <Option NumberResponse="0">both A and B</Option>
+        </Choices>
+        <Comment>Since the stars are identical, their temperature and size are the same. Hence if their apparent brightnesses are different, they must be at different distances.</Comment>
+      </Question>
+    </Group>
+  </Topic>
+  <Topic Name="Galileo" Enable="True">
+    <Group Type="SeriesQuestion" Name="1">
+      <Question Name="1">
+        <Statement>When you see Venus in the sky, you always find it relatively close to which object?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Moon</Option>
+          <Option NumberResponse="1" correct="Yes">Sun</Option>
+          <Option NumberResponse="0">Jupiter</Option>
+          <Option NumberResponse="0">Sirius</Option>
+        </Choices>
+        <Comment>Venus is always seen in the west shortly after sunset or in the east shortly before sunrise. Thus it is always near the sun in the sky.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The predominant model of the solar system during Galileo's time had Venus following an orbit</Statement>
+        <Choices>
+          <Option NumberResponse="0">around Earth.</Option>
+          <Option NumberResponse="0">around the sun.</Option>
+          <Option NumberResponse="1" correct="Yes">which lay entirely between the sun and Earth. This whole orbit then went around Earth.</Option>
+          <Option NumberResponse="0">Venus was not included in the model.</Option>
+        </Choices>
+        <Comment>In Ptolomey's solar system model, the center of Venus' orbit lay on a line connecting the Earth and Sun. As the sun orbited Earth, Venus' entire orbit also went around Earth.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>As Galileo watched Venus through his telescope for a few weeks he noticed that</Statement>
+        <Choices>
+          <Option NumberResponse="0">Venus was always in a crescent or half phase.</Option>
+          <Option NumberResponse="0">Venus always looked like a ball.</Option>
+          <Option NumberResponse="0">there were craters on its surface.</Option>
+          <Option NumberResponse="1" correct="Yes">Venus went through all the phases that the moon goes through, from a crescent to full.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>When Venus shows a full phase it must be located</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">on the side of the sun opposite Earth.</Option>
+          <Option NumberResponse="0">on the side of the sun nearest Earth.</Option>
+          <Option NumberResponse="0">so it forms a right angle with the sun and Earth.</Option>
+          <Option NumberResponse="0">it doesn't make any difference where Venus is.</Option>
+        </Choices>
+        <Comment>Since Venus shows a full phase, it must lie on the side of the sun opposite Earth. Thus its orbit cannot lie entirely between the Earth and sun as was thought at the time.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Since Galileo saw Venus go through the same phases as the moon (crescent to full), he concluded that</Statement>
+        <Choices>
+          <Option NumberResponse="0">Venus must orbit Earth.</Option>
+          <Option NumberResponse="0">Venus orbits the Sun while the sun orbits Earth.</Option>
+          <Option NumberResponse="0">The moon orbits Earth</Option>
+          <Option NumberResponse="1" correct="Yes">Both Venus and Earth orbit the sun.</Option>
+        </Choices>
+        <Comment>If Venus and Earth both orbit the sun, with the orbit of Venus closer to the sun then Earth's, then Venus will always appear close to the sun in the sky and go through all phases.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="2">
+      <Question Name="1">
+        <Statement>During the period of time in which Galileo lived, most people thought that objects in the sky were</Statement>
+        <Choices>
+          <Option NumberResponse="0">extremely far away.</Option>
+          <Option NumberResponse="0" correct="Yes">perfect.</Option>
+          <Option NumberResponse="0">in orbit around the sun.</Option>
+          <Option NumberResponse="0">figments of their imaginations.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>Who invented the telescope?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Galileo</Option>
+          <Option NumberResponse="0">Someone in Venice</Option>
+          <Option NumberResponse="0" correct="Yes">A Dutch eye-glass maker</Option>
+          <Option NumberResponse="0">Unknown</Option>
+        </Choices>
+        <Comment>Although Galileo did not invent the telescope, he was the first person to use it to look at things in the night time sky.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>When Galileo looked at the moon through his telescope he saw</Statement>
+        <Choices>
+          <Option NumberResponse="0">a fuzzy ball.</Option>
+          <Option NumberResponse="0">a perfectly smooth ball.</Option>
+          <Option NumberResponse="0">A depression which he concluded was a crater.</Option>
+          <Option NumberResponse="0" correct="Yes">both A and C</Option>
+        </Choices>
+        <Comment>The optics in Galileo's telescope were extremely poor by today's standards. Thus his view of the moon was a fuzzy ball with a large depression in it. He concluded the moon had many craters.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>When Galileo looked at the sun through his telescope he saw</Statement>
+        <Choices>
+          <Option NumberResponse="0">a yellow ball.</Option>
+          <Option NumberResponse="0">a yellow ball with craters.</Option>
+          <Option NumberResponse="0" correct="Yes">a yellow ball with dark spots.</Option>
+          <Option NumberResponse="0">Galileo never looked at the sun with his telescope.</Option>
+        </Choices>
+        <Comment>As with the craters on the moon, the dark spots on the sun, showed that the sun was not perfect. Today we call these dark spots sunspots. Special filters are needed to observe the sun.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>The discovery of craters on the moon and dark spots on the surface of the sun showed that objects in the sky were</Statement>
+        <Choices>
+          <Option NumberResponse="0">in orbit around the sun.</Option>
+          <Option NumberResponse="0">extremely far away.</Option>
+          <Option NumberResponse="0" correct="Yes">not perfect.</Option>
+          <Option NumberResponse="0">still perfect. The craters and dark spots were caused by a flaw in Galileo's telescope.</Option>
+        </Choices>
+        <Comment>Although some people tried to convince others that craters on the moon and dark spots on the sun were flaws in the telescope, they really showed that the heavens were not perfect.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="3">
+      <Question Name="1">
+        <Statement>Galileo lived in the early 1600s. At that time most people believed which of the following objects was at the center of the universe?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Sun</Option>
+          <Option NumberResponse="0" correct="Yes">Earth</Option>
+          <Option NumberResponse="0">the Milky Way Galaxy</Option>
+          <Option NumberResponse="0">They didn't believe that the universe had a center.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>One of the arguments used against the idea that Earth moved around the sun was that</Statement>
+        <Choices>
+          <Option NumberResponse="0">people would fall off Earth if it moved.</Option>
+          <Option NumberResponse="0">an object as big as Earth couldn't move.</Option>
+          <Option NumberResponse="0" correct="Yes">the moon couldn't keep up and as a result would fly off into space.</Option>
+          <Option NumberResponse="0">we don't feel it move.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>When Galileo pointed his telescope at Jupiter he saw</Statement>
+        <Choices>
+          <Option NumberResponse="0">it go though phases like the moon.</Option>
+          <Option NumberResponse="0">nothing unusual.</Option>
+          <Option NumberResponse="0">Galileo never saw Jupiter through a telescope.</Option>
+          <Option NumberResponse="0" correct="Yes">four star-like objects that moved from one side of Jupiter to the other, but were always there.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>After watching the movement of these objects for many weeks, Galileo concluded that they were</Statement>
+        <Choices>
+          <Option NumberResponse="0">stars.</Option>
+          <Option NumberResponse="0" correct="Yes">moons circling Jupiter.</Option>
+          <Option NumberResponse="0">planets.</Option>
+          <Option NumberResponse="0">he had no idea</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>If it was possible that Jupiter's moons stayed with Jupiter as it circled Earth, then it should also be possible that</Statement>
+        <Choices>
+          <Option NumberResponse="0">Earth's moon could stay with Earth as Earth circles the sun.</Option>
+          <Option NumberResponse="0">Jupiter and its moons could circle the sun.</Option>
+          <Option NumberResponse="0" correct="Yes">Both A and B</Option>
+          <Option NumberResponse="0">Neither A or B</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="4">
+      <Question Name="1">
+        <Statement>When you get away from city lights and look at the summer Milky Way, it appears as a</Statement>
+        <Choices>
+          <Option NumberResponse="0">portion of the sky without any stars.</Option>
+          <Option NumberResponse="0">very bright part of the sky.</Option>
+          <Option NumberResponse="0" correct="Yes">a whitish cloud.</Option>
+          <Option NumberResponse="0">none of the above</Option>
+        </Choices>
+        <Comment>The Milky Way is more prominent in the summer time because at that time of the year we are looking toward its center. At other times of the year we are looking out of the galaxy.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>When Galileo looked at this whitish cloud (Milky Way) with his telescope he found that it was made up of</Statement>
+        <Choices>
+          <Option NumberResponse="0" correct="Yes">thousands upon thousands of stars.</Option>
+          <Option NumberResponse="0">gas.</Option>
+          <Option NumberResponse="0">it looked the same both with and without the the telescope.</Option>
+          <Option NumberResponse="0">something which he did not recognize.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>One of the planets Galileo looked at with his telescope appeared oval; or as he put it, it had ears. Which planet was Galileo referring to?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Venus</Option>
+          <Option NumberResponse="0">Jupiter</Option>
+          <Option NumberResponse="0">Mars</Option>
+          <Option NumberResponse="0" correct="Yes">Saturn</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>Of course the feature of Saturn which Galileo mistook for ears were really</Statement>
+        <Choices>
+          <Option NumberResponse="0">two of Saturn's moons.</Option>
+          <Option NumberResponse="0" correct="Yes">Saturn's rings.</Option>
+          <Option NumberResponse="0">two stars that Saturn happened to be between.</Option>
+          <Option NumberResponse="0">we don't have any idea what he saw.</Option>
+        </Choices>
+        <Comment>The lenses in Galileo's telescope were neither good enough nor powerful enough to show the dark area between Saturn and its rings. Forty years later, the rings were identified as rings.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>As Galileo was plotting the position of Jupiter's 4 satellites, he also spotted a near-by star which has turned out to be</Statement>
+        <Choices>
+          <Option NumberResponse="0">Pluto.</Option>
+          <Option NumberResponse="0" correct="Yes">Neptune.</Option>
+          <Option NumberResponse="0">Uranus.</Option>
+          <Option NumberResponse="0">the north star.</Option>
+        </Choices>
+        <Comment>Galileo even made a note implying that this "star" seems to have changed position from the previous night. Unfortunately a few cloudy nights prevented Galileo from following this up.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="5">
+      <Question Name="1">
+        <Statement>If you drop a feather and a hammer from the same height, which one will hit the ground first?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Feather</Option>
+          <Option NumberResponse="1" correct="Yes">Hammer</Option>
+          <Option NumberResponse="0">They will both hit the ground at the same time.</Option>
+          <Option NumberResponse="0">Sometimes the feather, sometimes the hammer.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>Repeat the experiment on the moon. Now does the feather or the hammer hit the ground first?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Feather.</Option>
+          <Option NumberResponse="0">Hammer.</Option>
+          <Option NumberResponse="1" correct="Yes">They both hit the ground at the same time.</Option>
+          <Option NumberResponse="0">Sometimes the feather; sometimes the hammer.</Option>
+        </Choices>
+        <Comment>Since the moon's gravity pulls on the feather and hammer the same amount, they both hit the ground at the same time. For a demonstration of this, select Galileo on the Video Disk exhibit.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If the hammer and the feather both hit the ground at the same time on the moon, why does the hammer hit the ground first on Earth?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Earth's gravity is stronger than the moon's.</Option>
+          <Option NumberResponse="0">Gravity works differently on the Earth &amp; Moon.</Option>
+          <Option NumberResponse="1" correct="Yes">Air resistance on Earth slows down the falling feather.</Option>
+          <Option NumberResponse="0">The reason for the difference is unknown.</Option>
+        </Choices>
+        <Comment>Put a quarter and a feather in a tube. Now take all the air out of the tube and let the quarter and feather fall. They will both hit the bottom at the same time.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>Neglecting air resistance, what determines how fast an object falls on the Earth?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The size of the object.</Option>
+          <Option NumberResponse="0">The mass of the object.</Option>
+          <Option NumberResponse="1" correct="Yes">The mass of the Earth.</Option>
+          <Option NumberResponse="0">Both A and B</Option>
+        </Choices>
+        <Comment>Only the mass of the Earth, moon, sun, etc. determines how fast an object falls toward it.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Galileo dropped a large ball and a small ball made of the same metal from the Leaning Tower of Pisa. Which one hit the ground first?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The small ball.</Option>
+          <Option NumberResponse="0">The large ball.</Option>
+          <Option NumberResponse="1" correct="Yes">They both hit the ground at the same time.</Option>
+          <Option NumberResponse="0">Sometimes the large one; sometimes the small one.</Option>
+        </Choices>
+        <Comment>Since the air resistance on two heavy balls is so small, it can be ignored. Since the Earth is pulling on both balls, they fall at the same rate, and strike the ground at the same time.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="6">
+      <Question Name="1">
+        <Statement>Who was the first person to look at the sky with a telescope?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Newton</Option>
+          <Option NumberResponse="0">Copernicus</Option>
+          <Option NumberResponse="1" correct="Yes">Galileo</Option>
+          <Option NumberResponse="0">Herschel</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>Why was Galileo able to see more through his telescope than with his eye alone?</Statement>
+        <Choices>
+          <Option NumberResponse="0">It made things look bigger.</Option>
+          <Option NumberResponse="0">It made things appear closer.</Option>
+          <Option NumberResponse="0">It made faint objects look brighter.</Option>
+          <Option NumberResponse="1" correct="Yes">All of the above.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>What is the primary purpose of a telescope?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Make distant object appear closer.</Option>
+          <Option NumberResponse="1" correct="Yes">Make things look brighter.</Option>
+          <Option NumberResponse="0">Make things look bigger.</Option>
+          <Option NumberResponse="0">None of the above.</Option>
+        </Choices>
+        <Comment>The lens or mirror of a telescope collects light. Since it collects light, a telescope makes things look brighter. Once you have collected the light, you can then magnify the image.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>You have two telescopes, an 8-inch and a 16-inch, that are being used at the same magnification. Which telescope gives the brighter image?</Statement>
+        <Choices>
+          <Option NumberResponse="0">8-inch</Option>
+          <Option NumberResponse="1" correct="Yes">16-inch</Option>
+          <Option NumberResponse="0">There is no difference between the two telescopes.</Option>
+        </Choices>
+        <Comment>The 16-inch telescope has a bigger mirror, so it gathers more light. Just like a large pail that is left out in the rain will collect more water than a small pail.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Which telescope gives you a better image at a higher magnification?</Statement>
+        <Choices>
+          <Option NumberResponse="0">8-inch</Option>
+          <Option NumberResponse="1" correct="Yes">16-inch</Option>
+          <Option NumberResponse="0">The images from the two telescopes will look the same.</Option>
+        </Choices>
+        <Comment>At a higher magnification the light the telescope collects is spread out over a larger area. Since the 16-inch telescope collects more light, you can spread out it over a larger area.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="7">
+      <Question Name="1">
+        <Statement>When Galileo turned his telescope to the moon he saw</Statement>
+        <Choices>
+          <Option NumberResponse="0">a fuzzy crater.</Option>
+          <Option NumberResponse="0">some bright areas.</Option>
+          <Option NumberResponse="0">some dark areas.</Option>
+          <Option NumberResponse="0" correct="Yes">All of the above.</Option>
+        </Choices>
+        <Comment>The optics in Galileo's telescope were so poor by today's standards, that what he saw through his telescope was fuzzy.</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>How are craters on the moon formed?</Statement>
+        <Choices>
+          <Option NumberResponse="0">From volcanoes that are no longer active.</Option>
+          <Option NumberResponse="0">Holes that were formed when the moon cooled.</Option>
+          <Option NumberResponse="0" correct="Yes">From the impact of large rocks or asteroids.</Option>
+          <Option NumberResponse="0">We don't now how they were formed.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>When these large rocks or asteroids hit the moon, their average speed was</Statement>
+        <Choices>
+          <Option NumberResponse="0">10 miles per hour.</Option>
+          <Option NumberResponse="0">100 miles per hour.</Option>
+          <Option NumberResponse="0">5 miles per second.</Option>
+          <Option NumberResponse="0" correct="Yes">25 miles per second.</Option>
+        </Choices>
+        <Comment>At that speed you could travel from the Observatory back to Wichita in about 1 second.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The dark areas Galileo and other astronomers saw on the moon reminded them of</Statement>
+        <Choices>
+          <Option NumberResponse="0" correct="Yes">water.</Option>
+          <Option NumberResponse="0">dark rock.</Option>
+          <Option NumberResponse="0">shadows.</Option>
+          <Option NumberResponse="0">nothing</Option>
+        </Choices>
+        <Comment>This is why these dark areas are referred to as seas, oceans, and so on.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>These areas are really made up of</Statement>
+        <Choices>
+          <Option NumberResponse="0">water.</Option>
+          <Option NumberResponse="0" correct="Yes">lava.</Option>
+          <Option NumberResponse="0">dirt.</Option>
+          <Option NumberResponse="0">sand.</Option>
+        </Choices>
+        <Comment>Although they look like bodies of water, there was never any liquid water on the moon. The lava flowed up through cracks in the moon's surface.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="8">
+      <Question Name="1">
+        <Statement>When Galileo looked at the sun through his telescope he saw</Statement>
+        <Choices>
+          <Option NumberResponse="0">a yellow ball.</Option>
+          <Option NumberResponse="0">a yellow ball with craters.</Option>
+          <Option NumberResponse="1" correct="Yes">a yellow ball with dark spots.</Option>
+          <Option NumberResponse="0">a blue ball.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>These dark areas, which are now referred to as sunspots, are actually</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">cool areas on the sun's surface.</Option>
+          <Option NumberResponse="0">places where the sun has burned out.</Option>
+          <Option NumberResponse="0">craters.</Option>
+          <Option NumberResponse="0">holes in the sun.</Option>
+        </Choices>
+        <Comment>These areas can be up to 2,700 degrees F cooler than the rest of the sun's surface.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>Compared to things here on Earth, sunspots are</Statement>
+        <Choices>
+          <Option NumberResponse="0">Cool.</Option>
+          <Option NumberResponse="0">Hot.</Option>
+          <Option NumberResponse="0">Very hot.</Option>
+          <Option NumberResponse="1" correct="Yes">Extremely hot.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The temperature of the sun's surface is about 10,000 degrees F (6,000 C). Sunspots have a temperature of</Statement>
+        <Choices>
+          <Option NumberResponse="0">500 degrees F.</Option>
+          <Option NumberResponse="0">2,000 degrees F.</Option>
+          <Option NumberResponse="1" correct="Yes">8,000 degrees F.</Option>
+          <Option NumberResponse="0">20,000 degrees F.</Option>
+        </Choices>
+        <Comment>Even at 8,000 degrees F, these objects are so bright that you would blind yourself if you looked at them.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Why are these areas of the sun cooler than the rest of the sun?</Statement>
+        <Choices>
+          <Option NumberResponse="0">Energy is not generated at these places.</Option>
+          <Option NumberResponse="0">Energy is generated, but it can't be seen.</Option>
+          <Option NumberResponse="0">Giant air conditioners are cooling these places</Option>
+          <Option NumberResponse="1" correct="Yes">Energy from the interior of the sun doesn't reach the surface at the places of sunspots.</Option>
+        </Choices>
+        <Comment>The sun's magnetic field occasionally gets kinks and twists in it. Where these kinks and twists occur, hot gasses from the sun's interior are not allowed to reach the surface.</Comment>
+      </Question>
+    </Group>
+  </Topic>
+  <Topic Name="Moon" Enable="True">
+    <Group Type="SeriesQuestion" Name="1">
+      <Question Name="1">
+        <Statement>The craters on the moon were caused by</Statement>
+        <Choices>
+          <Option NumberResponse="0">volcanoes.</Option>
+          <Option NumberResponse="2" correct="Yes">the impact of large rocks.</Option>
+          <Option NumberResponse="1">alien's constructing UFO hangers.</Option>
+          <Option NumberResponse="0">a process that astronomer's don't understand.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The moon is about 4.5 billion years old. About how long ago were most of the craters formed?</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">Between 4 and 4.5 billion years ago.</Option>
+          <Option NumberResponse="1">Between 3 and 4 billion years ago.</Option>
+          <Option NumberResponse="0">Between 2 and 3 billion years ago.</Option>
+          <Option NumberResponse="0">Within the last 2 billion years.</Option>
+        </Choices>
+        <Comment>Most of the moon's craters were formed soon after the moon formed.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>Why were most of the moon's craters formed between 4 and 4.5 billion years ago rather than more recently?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The solar system passed through a part of the galaxy which contained lots of rocks.</Option>
+          <Option NumberResponse="3" correct="Yes">Debris left over from the formation of the solar system ran into the moon.</Option>
+          <Option NumberResponse="0">Astronomers don't know</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>Which object was hit by more meteors, the moon or Earth?</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">Earth</Option>
+          <Option NumberResponse="0">Moon</Option>
+          <Option NumberResponse="1">Earth and moon were each hit about the same number of times.</Option>
+          <Option NumberResponse="0">There is no way to tell.</Option>
+        </Choices>
+        <Comment>The Earth is larger than the moon so it makes a bigger target.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Why are there more craters on the moon today than there are craters on Earth?</Statement>
+        <Choices>
+          <Option NumberResponse="0">The moon was hit more times than Earth.</Option>
+          <Option NumberResponse="0">The moon is bigger than Earth and therefore makes a bigger target.</Option>
+          <Option NumberResponse="3" correct="Yes">Most of Earth's craters have been eroded away.</Option>
+          <Option NumberResponse="0">Astronomers don't know.</Option>
+        </Choices>
+        <Comment>Although Earth was hit more times than the moon, wind and rain have eroded almost all the craters away. The moon on the other hand has no atmosphere so very old craters can still be seen.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="2">
+      <Question Name="1">
+        <Statement>If you look at the moon through binoculars or a telescope, you notice that</Statement>
+        <Choices>
+          <Option NumberResponse="0">it is very smooth.</Option>
+          <Option NumberResponse="0">the person (man) in the moon is looking back.</Option>
+          <Option NumberResponse="2" correct="Yes">has some smooth areas and some areas with a lot of craters.</Option>
+          <Option NumberResponse="0">it is completely covered with craters.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The smooth areas on the moon are called</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">Mare</Option>
+          <Option NumberResponse="0">Craters</Option>
+          <Option NumberResponse="0">Highlands</Option>
+          <Option NumberResponse="0">Plains</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>These smooth areas or maria are areas of the moon that have been</Statement>
+        <Choices>
+          <Option NumberResponse="0">smoothed out due to crater impacts.</Option>
+          <Option NumberResponse="0">flooded by water.</Option>
+          <Option NumberResponse="2" correct="Yes">flooded by lava.</Option>
+          <Option NumberResponse="0">Astronomers don't know how they arose.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The lava which flooded the maria reached the moon's surface</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">through cracks.</Option>
+          <Option NumberResponse="0">through volcanoes.</Option>
+          <Option NumberResponse="0">from outer space.</Option>
+          <Option NumberResponse="1">from craters.</Option>
+        </Choices>
+        <Comment>As far as planetary geologist know, there were never any volcano on the moon</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Why do the maria have relatively few craters?</Statement>
+        <Choices>
+          <Option NumberResponse="0">That portion of the moon was never hit by meteors.</Option>
+          <Option NumberResponse="0">The wind on the moon filled them in with dust.</Option>
+          <Option NumberResponse="2" correct="Yes">Most of the cratering took place before the maria were formed.</Option>
+        </Choices>
+        <Comment>The maria are relatively young geological formations. Therefore they were not around when the heaviest meteor bombarments took place.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="3">
+      <Question Name="1">
+        <Statement>Most of what we know about the composition of the moon is the result of?</Statement>
+        <Choices>
+          <Option NumberResponse="0">meteorites</Option>
+          <Option NumberResponse="0">Earth observations</Option>
+          <Option NumberResponse="0">alien books</Option>
+          <Option NumberResponse="2" correct="Yes">The Apollo moon landings</Option>
+        </Choices>
+        <Comment>The Apollo moon landings left on the moon a number of scientific instrument. Information gathered by these, along with analysis of moon rocks, taught us about moon's composition</Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>The first moon landing occurred in</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">July, 1969</Option>
+          <Option NumberResponse="0">March, 1974</Option>
+          <Option NumberResponse="0">July, 1959</Option>
+          <Option NumberResponse="0">March, 1964</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>In all, how many men walked on the lunar surface?</Statement>
+        <Choices>
+          <Option NumberResponse="0">9</Option>
+          <Option NumberResponse="2" correct="Yes">12</Option>
+          <Option NumberResponse="0">45</Option>
+          <Option NumberResponse="0">8</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>How many pounds of rock were brought back by the Apollo astronauts?</Statement>
+        <Choices>
+          <Option NumberResponse="0">699</Option>
+          <Option NumberResponse="0">45</Option>
+          <Option NumberResponse="0">250</Option>
+          <Option NumberResponse="2" correct="Yes">843</Option>
+        </Choices>
+        <Comment>In order to bring back as many rocks as possible, the astronauts left behind some very expensive camera and other equipment!</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>The composition of these rocks is</Statement>
+        <Choices>
+          <Option NumberResponse="2" correct="Yes">very similar to those on Earth, but with some slight differences.</Option>
+          <Option NumberResponse="0">exact as Earth rocks.</Option>
+          <Option NumberResponse="0">totally different from Earth rocks.</Option>
+          <Option NumberResponse="0">very similar to rocks on Mars.</Option>
+        </Choices>
+        <Comment>The composition of moon rocks, gives us a clue 60 the moon's formation.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="4">
+      <Question Name="1">
+        <Statement>Rocks brought back from the moon by the Apollo astronauts showed that the composition of the moon rocks is</Statement>
+        <Choices>
+          <Option NumberResponse="0">totally different than Earth rocks.</Option>
+          <Option NumberResponse="0">explosive when in presence of air.</Option>
+          <Option NumberResponse="3" correct="Yes">very similar to rocks on Earth, but with some slight differences.</Option>
+          <Option NumberResponse="0">green cheese.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>If the moon was formed somewhere else in the solar system and then captured into an orbit around Earth, the composition Earth and moon rocks should</Statement>
+        <Choices>
+          <Option NumberResponse="3" correct="Yes">be different from each other.</Option>
+          <Option NumberResponse="0">be very similar to each other.</Option>
+          <Option NumberResponse="0">be identical.</Option>
+          <Option NumberResponse="0">resemble the composition of Pluto.</Option>
+        </Choices>
+        <Comment>The compositions of planets in the Solar System are different. This due to the scattering of different element throughout the cloud from which they formed throughout the Solar System during its formation</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If the moon was formed in Earth orbit when Earth formed, then the composition of earth and moon rocks should be</Statement>
+        <Choices>
+          <Option NumberResponse="0">similar.</Option>
+          <Option NumberResponse="3" correct="Yes">identical.</Option>
+          <Option NumberResponse="0">different.</Option>
+          <Option NumberResponse="0">not at all related.</Option>
+        </Choices>
+        <Comment>If two object are formed  out of the same part of a gas and dust, their composition should be identical</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>A Mars-seized object hits Earth which throws dust into Earth orbit. If this dust then forms the moon the composition of the Earth and Moon should be</Statement>
+        <Choices>
+          <Option NumberResponse="0">identical</Option>
+          <Option NumberResponse="0">different</Option>
+          <Option NumberResponse="3" correct="Yes">very similar</Option>
+          <Option NumberResponse="0">not related</Option>
+        </Choices>
+        <Comment>the moon's composition would not be identical to the composition of Earth since some material of the object hit Earth would also be present. </Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>Astronomers believe that the moon was formed</Statement>
+        <Choices>
+          <Option NumberResponse="1">when huge volcano on Earth threw large amounts of dust into earth orbit.</Option>
+          <Option NumberResponse="2" correct="Yes">when a Mars-sized object hit Earth and threw up dust.</Option>
+          <Option NumberResponse="0">when the sun was created.</Option>
+        </Choices>
+        <Comment>This theory accounts for the fact that the composition of the moon is very close to that of Earth while allowing for some slight differences.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="5">
+      <Question Name="1">
+        <Statement>What is the relationship between the Earth and moon?</Statement>
+        <Choices>
+          <Option NumberResponse="1">They were made at the same time.</Option>
+          <Option NumberResponse="0">Both have an atmosphere.</Option>
+          <Option NumberResponse="2" correct="Yes">The moon orbits the Earth.</Option>
+          <Option NumberResponse="0">They both have seas.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>At any given time, how much of the moon's surface is in sunlight?</Statement>
+        <Choices>
+          <Option NumberResponse="1">one fourth</Option>
+          <Option NumberResponse="0">one sixth</Option>
+          <Option NumberResponse="2" correct="Yes">half</Option>
+          <Option NumberResponse="0">all</Option>
+        </Choices>
+        <Comment>just as  a ball held in a flashlight beam is half bright half dark, so is the moon.</Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If the moon is between the sun and Earth, how much of the moon's sunlit half can we see?</Statement>
+        <Choices>
+          <Option NumberResponse="0">all</Option>
+          <Option NumberResponse="1">half</Option>
+          <Option NumberResponse="0">one fourth</Option>
+          <Option NumberResponse="2" correct="Yes">none</Option>
+        </Choices>
+        <Comment>Only the dark half of the moon is facing Earth</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>If the sun and the moon are on opposite parts of the sky, how much of the moon's sunlit half can we see?</Statement>
+        <Choices>
+          <Option NumberResponse="0">none</Option>
+          <Option NumberResponse="0">half</Option>
+          <Option NumberResponse="0">one fourth</Option>
+          <Option NumberResponse="3" correct="Yes">all</Option>
+        </Choices>
+        <Comment>in this case, Earth is facing the moon's bright half.</Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>The phases of the moon are caused by</Statement>
+        <Choices>
+          <Option NumberResponse="0">the Earth's shadow</Option>
+          <Option NumberResponse="0">the rotation of the Earth around the sun.</Option>
+          <Option NumberResponse="2" correct="Yes">the moon's motion around Earth.</Option>
+          <Option NumberResponse="1">changing colors on the moon's dust surface.</Option>
+        </Choices>
+        <Comment>Phases such as the ones that we observe on the moon can also be observed in the inner planets Venus and Mercury.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="6">
+      <Question Name="1">
+        <Statement>Full moon occurs when</Statement>
+        <Choices>
+          <Option NumberResponse="1">the moon and the sun are in opposite parts of the sky.</Option>
+          <Option NumberResponse="0">the moon and the sun are in the same part of the sky.</Option>
+          <Option NumberResponse="1" correct="Yes">there is high tide on Earth.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>On the day of full moon, you go outside to look for the moon at sunset. In which direction should you look?</Statement>
+        <Choices>
+          <Option NumberResponse="0">North</Option>
+          <Option NumberResponse="0">South</Option>
+          <Option NumberResponse="2" correct="Yes">East</Option>
+          <Option NumberResponse="0">West</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If you had gone out at sunrise, which direction should you look for the full moon?</Statement>
+        <Choices>
+          <Option NumberResponse="0">North</Option>
+          <Option NumberResponse="0">South</Option>
+          <Option NumberResponse="0">East</Option>
+          <Option NumberResponse="2" correct="Yes">West</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>In what part of the sky would you expect to find a crescent moon at sunset?</Statement>
+        <Choices>
+          <Option NumberResponse="0">North</Option>
+          <Option NumberResponse="0">South</Option>
+          <Option NumberResponse="1">East</Option>
+          <Option NumberResponse="1" correct="Yes">West</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>In what part of the sky would you expect to find the first quarter moon at sunset?</Statement>
+        <Choices>
+          <Option NumberResponse="0">North</Option>
+          <Option NumberResponse="0" correct="Yes">South</Option>
+          <Option NumberResponse="1">East</Option>
+          <Option NumberResponse="1">West</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="7">
+      <Question Name="1">
+        <Statement>When we observe the moon from Earth, we see</Statement>
+        <Choices>
+          <Option NumberResponse="0">the whole moon.</Option>
+          <Option NumberResponse="0">only the craters.</Option>
+          <Option NumberResponse="1" correct="Yes">only one side.</Option>
+          <Option NumberResponse="0">only the Mare.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>If we only see one side of the moon, then the moon rotates on its axis</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">once each time it goes around Earth.</Option>
+          <Option NumberResponse="0">once in a while</Option>
+          <Option NumberResponse="0">every day</Option>
+          <Option NumberResponse="0">once a year</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>If the moon did not rotate on its axis, then</Statement>
+        <Choices>
+          <Option NumberResponse="0">the earth wouldn't have tides.</Option>
+          <Option NumberResponse="0">we couldn't see the moon at all.</Option>
+          <Option NumberResponse="1" correct="Yes">we could see the moon's entire surface.</Option>
+          <Option NumberResponse="0">the Earth wouldn't rotate.</Option>
+        </Choices>
+        <Comment>It would look the same as when the rotation of other planets is observed.</Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>About how many days does it take for the moon to orbit Earth?</Statement>
+        <Choices>
+          <Option NumberResponse="0">14 days</Option>
+          <Option NumberResponse="0">7 days</Option>
+          <Option NumberResponse="1" correct="Yes">29 days</Option>
+          <Option NumberResponse="0">31 days</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>The side of the moon which we can't see</Statement>
+        <Choices>
+          <Option NumberResponse="0">is always dark.</Option>
+          <Option NumberResponse="0">is always daylight.</Option>
+          <Option NumberResponse="1" correct="Yes">has both day and night.</Option>
+          <Option NumberResponse="0">has no day or night.</Option>
+        </Choices>
+        <Comment>This "dark" side, as it is more commonly know, is almost the same as the other side. One of the main exceptions is that it contains more craters and mountains.</Comment>
+      </Question>
+    </Group>
+    <Group Type="SeriesQuestion" Name="8">
+      <Question Name="1">
+        <Statement>A solar eclipse occurs when</Statement>
+        <Choices>
+          <Option NumberResponse="0">the Earth passes between the moon and sun.</Option>
+          <Option NumberResponse="1" correct="Yes">the moon passes between the Earth and sun.</Option>
+          <Option NumberResponse="0">the sun passes between the Earth and moon.</Option>
+          <Option NumberResponse="0">the moons passes between Earth and Mars.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="2">
+        <Statement>At what phase of the moon does this occur?</Statement>
+        <Choices>
+          <Option NumberResponse="0">full moon</Option>
+          <Option NumberResponse="1" correct="Yes">new moon</Option>
+          <Option NumberResponse="0">quarter moon</Option>
+          <Option NumberResponse="0">gibbous moon</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="3">
+        <Statement>A lunar eclipse occurs when</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">the moon passes through Earth's shadow.</Option>
+          <Option NumberResponse="0">the Earth passes through moon's shadow.</Option>
+          <Option NumberResponse="0">the sun passes through the moon's shadow.</Option>
+          <Option NumberResponse="0">the sun passes through the Earth's shadow.</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="4">
+        <Statement>The moon's phase during a lunar eclipse is</Statement>
+        <Choices>
+          <Option NumberResponse="1" correct="Yes">full</Option>
+          <Option NumberResponse="0">new</Option>
+          <Option NumberResponse="0">gibbous</Option>
+          <Option NumberResponse="0">crescent</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+      <Question Name="5">
+        <Statement>An eclipse can occur during what other lunar phase?</Statement>
+        <Choices>
+          <Option NumberResponse="0">full</Option>
+          <Option NumberResponse="0">new</Option>
+          <Option NumberResponse="0">crescent</Option>
+          <Option NumberResponse="1" correct="Yes">none</Option>
+        </Choices>
+        <Comment>
+        </Comment>
+      </Question>
+    </Group>
+  </Topic>
+</Set>

@@ -1,0 +1,25 @@
+IRGNoRegularShape
+that does not have a regular shape.
+++
+XX
+G4G5
+IRGStarFormationTakingPlace
+where star formation is taking place.
+++
+G2
+G2
+IRGSomeGasAndDust
+that contains some gas and dust.
+++
+G2
+G2
+IRGFew100KStars
+that generally contains a few hundred thousand stars.
+++
+XX
+G5
+IRGFewLightYrsAccross
+that is on the order of a few thousand light years across.
+XX
+XX
+G5

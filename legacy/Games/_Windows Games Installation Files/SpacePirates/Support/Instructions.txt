@@ -1,0 +1,11 @@
+Derth Fader has programmed your ship's computer to blow itself up. 
+
+Your only hope of survival is to locate Vader's base and defuse the bomb before it goes off.
+
+Your ship's sensors can locate the general direction of Vader's base, but only the scanners can locate the base accurately. You must decide what objects to scan.
+
+
+WARNING !!
+If you scan the wrong place, Vader may detect you and move his base. 
+Too many wrong scans and you will run out of time.
+If you want to stop the game at any time, click ESC key.

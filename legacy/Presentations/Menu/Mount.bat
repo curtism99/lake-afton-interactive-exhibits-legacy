@@ -1,0 +1,1 @@
+net use T:  \\LAPO-5\TriviaData /p:yes

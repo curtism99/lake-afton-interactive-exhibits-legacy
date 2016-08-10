@@ -1,0 +1,20 @@
+BDPStarNorPlanet
+that is neither a star or a planet.
+++
+++
+P1P2
+BDPFewKDegrees
+that has a temperature of a few thousand degrees C.
+++
+++
+XX
+BDP100KmilesAcross
+that is on the order of a hundred thousand miles across.
+++
+++
+P2
+BDPVeryThin
+that is very thin.
+++
+++
+P1P2

@@ -1,0 +1,45 @@
+BMSHotStar
+that is a hot star.
+XX
+XX
+XX
+BMSfewMillMilesAccross
+that is a few million miles across.
+S1S2
+XX
+XX
+BMSRedSuperGiant
+that will become a red supergiant when it starts to die.
+S1S2
+S4S5
+S4S5
+BMSExplodeSuperNova
+that will explode in a supernova explosion.
+S1S2
+S4
+S4
+BMSBlackHole
+that may become a black hole.
+S1S2
+S4
+S4
+BMSNeutronStar
+that may become a neutron star/pulsar.
+S1S2
+S4
+S4
+BMSHotterThanSun
+that is a star that is much hotter than the sun.
+XX
+XX
+XX
+BMSLargerThanSun
+that is a few times larger than the sun.
+XX
+XX
+XX
+BMSBrighterThanSun
+that is a few thousand times brighter than the sun.
+XX
+XX
+XX

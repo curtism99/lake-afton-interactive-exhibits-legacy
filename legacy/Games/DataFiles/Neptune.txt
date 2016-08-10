@@ -1,0 +1,26 @@
+NeCold
+Neptune is a very cold planet. The average temperature of Neptune is colder than 350 degrees below zero.
+NeGaseous
+Neptune is a gas planet with no solid surface.  It is like having a planet with just clouds and no ground.
+NeOneMoon
+Neptune has at least one moon. In fact, Neptune has at least 8 moons.
+NeManyMoons
+Neptune has more than five moons. In fact, Neptune has at least 8 moons.
+NeDenseAtmosphere
+Neptune, a gas planet, can be thought of as a planet that is all atmosphere.  The deeper into the planet, the thicker the atmosphere.
+NeRings
+Neptune has very thin, faint rings.  The rings of Neptune are believed to be relatively young and short-lived.
+NeOrbitsInMoreThanYear
+Neptune travels around the Sun slowly. Neptune takes nearly 165 Earth years to make 1 complete trip around the sun!
+NeMagneticField
+Neptune has a strong magnetic field. A compass could definitely be used there.
+NeReleaseEnergy
+Neptune, according to the nineplanets, actually gives off about twice as much energy as it receives from the sun.
+NeJupiterLike
+Neptune is similar to Jupiter.  It is a gas planet with no solid surface, like Jupiter, and its size is closer to Jupiter's size (as compared to Earth).
+NeMoonAtmosphere
+One of Neptune's moons, Tritan, has an atmopshere.  Tritan's extremely thin atmosphere is made mostly of nitrogen.
+NeLargerEarth
+Neptune is much larger than Earth. Neptune is nearly 31,000 miles wide while Earth is just 8,000 miles wide.
+NeVisited
+Only one spacecraft has been sent to Neptune, Voyager 2.  Voyager 2 studied Neptune's atmosphere, rings, moons, and more.

@@ -1,0 +1,36 @@
+SaGaseous
+Saturn is a gas planet with no solid surface.  It is like having a planet with just clouds and no ground.
+SaOneMoon
+Saturn has at least one moon. In fact, Saturn has at least 30 moons!
+SaManyMoons
+Saturn certainly has many moons. In fact, Saturn has at least 30 moons!
+SaDenseAtmosphere
+Saturn, a gas planet, can be thought of as a planet that is all atmosphere.  The deeper into the planet, the thicker the atmosphere.
+SaRings
+Though they look solid from Earth, Saturn's rings are actually made of particles ranging from the size of a grain of sand to the size of a small house.
+SaOrbitsInMoreThanYear
+Saturn travels around the Sun slowly. Saturn takes almost 30 Earth years to make 1 complete orbit around the sun.
+SaMagneticField
+Saturn has quite a strong magnetic field. A compass could definitely be used there.
+SaWinds
+Saturn is a windy place. The winds of Saturn travel at nearly 1,120 miles per hour (1800 kilometers per hour)!
+SaReleaseEnergy
+Saturn is slowly shrinking because it is giving off more energy than it is receiving from the Sun.
+SaLargeMoon
+One of Saturn's moons, Titan, is larger than the planet Mercury.  If Titan orbited the Sun instead of Saturn, it could be called a planet.
+SaJupiterLike
+Saturn is similar to Jupiter.  It is a gas planet with no solid surface, like Jupiter, and its size is closer to Jupiter's size (as compared to Earth).
+SaAurora
+Charged particles from the Sun interact with the magnetic field at Saturn's poles to produce beautiful light shows called "aurora."
+SaShrinking
+Saturn is slowly shrinking, but because of its size we are not able to see the changes.
+SaMoonAtmosphere
+One of Saturn's moons, Titan, has an atmopshere.  Titan's atmosphere is made of nitrogen and methane.
+SaLargerEarth
+Saturn is much larger than Earth. Saturn is nearly 75,000 miles wide while Earth is just 8,000 miles wide.
+SaVisited
+Saturn has been visited by several Earth satellites.  These missions studied Saturn's atmosphere, moons, rings, magnetic and electric fields, and more.
+SaRotatesTenHours
+Saturn rotates on its axis very quickly. 1 day on Saturn (one complete turn on its axis) is just over 10 Earth-hours long.
+SaMostMoons
+Saturn has more moons than any of the other planets. As of early in the year 2001, Saturn has 30 known moons.

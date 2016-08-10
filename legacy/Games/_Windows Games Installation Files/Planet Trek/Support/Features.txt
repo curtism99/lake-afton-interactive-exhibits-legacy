@@ -1,0 +1,184 @@
+Water
+Liquid Water
+3
+Liquid water is found on Earth only.
+Craters
+Craters
+1234
+Craters are present on Mercury, Venus Earth and Mars.
+CarbonDioxide
+Carbon dioxide atmosphere
+24
+A
+Cold
+Temperatures less than -300 degrees F
+1789
+A
+Hot
+Temperatures greater than 600 degrees F
+12
+A
+Small
+Same size as earth or smaller
+12349
+A
+AcidClouds
+Sulfuric acid clouds
+2
+A
+Rocky
+Solid, rocky planet
+1234
+A
+Gaseous
+Gaseous Planet
+5678
+A
+OneMoon
+Has at least one moon
+3456789
+A
+ManyMoons
+Has more than five moons
+5678
+A
+Mountains
+Mountains
+23
+A
+DenseAtmosphere
+Dense Atmosphere
+25678
+A
+Rings
+Has Rings
+5678
+A
+Largest
+Largest Planet
+5
+A
+Smallest
+Smallest Planet
+9
+A
+Volcanoes
+Volcanoes
+234
+A
+FreeOxygen
+Free oxygen in atmosphere
+3
+A
+OrbitsInLessThanYear
+Orbits the Sun in less than one year
+12
+A
+OrbitsInMoreThanYear
+Orbits the Sun in more than one year
+456789
+A
+MagneticField
+Significant magnetic field
+135678
+A
+Winds
+1800 kilometer per hour winds
+6
+A
+Lightning
+Lightining in atmosphere
+35
+A
+PolarCaps
+Polar caps
+34
+A
+ReleaseEnergy
+Gives off more energy than receives from the Sun
+568
+A
+LargeMoon
+Has a moon larger than Mercury
+56
+A
+EarthLike
+Earth like planet
+1234
+A
+JupiterLike
+Jupiter like planet
+5678
+A
+NoAtmosphere
+Has no atmosphere
+19
+A
+Life
+Best suited for life
+3
+A
+NoMoon
+Has no moons
+12
+A
+Aurora
+Has Aurora (Northern Lights)
+356
+A
+Shrinking
+Shrinking a little bit every year
+56
+A
+RotatesSlowest
+Rotates on its axis slowest
+2
+A
+MoonAtmosphere
+Has a moon with an atmosphere
+68
+A
+LargerEarth
+Larger than earth
+5678
+A
+Seasons
+Has noticable seasons
+34
+A
+ElongatedOrbit
+Elongated orbit
+19
+A
+Visited
+Visited by earth satellite
+12345678
+A
+Landed
+Landed on by earth satellite
+2345
+A
+RotatesTenHours
+Rotates on its axis in about ten hours
+56
+A
+RotatesOpposite
+Rotates in opposite direction of its orbit
+2
+A
+MostMoons
+Has more moons than any other planet (as of Jul '04)
+5
+A
+LessMoons
+Has less than five moons
+12349
+A
+NeverVisited
+Has never been visited by earth satellite
+9
+A
+OrbitsSide
+Orbits on it's side
+7
+A

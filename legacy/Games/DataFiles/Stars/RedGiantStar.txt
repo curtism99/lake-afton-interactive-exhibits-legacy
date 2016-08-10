@@ -1,0 +1,45 @@
+RGSTensMMilesAccross
+that is a few tens of millions miles across.
+XX
+XX
+XX
+RGSCoolStar
+that is a cool star.
+XX
+S2S4
+S2S4
+RGSNearEndofLife
+that is near the end of its life.
+XX
+S4
+S4
+RGSPlanetaryNebula
+that will put off its outer layers to form a planetary nebula.
+XX
+S1
+S1
+RGSWhiteDwarf
+that will become a white dwarf.
+XX
+S1
+S1
+RGSCoolerThanSun
+that is cooler than the sun.
+XX
+S2S4
+S2S4
+RGSBrighterThanSun
+that is hundreds of times brighter than the sun.
+XX
+S1S3
+S1S3
+RGSCoolBrighterThanSun
+that is cool and hundreds of times brigter than the sun.
+XX
+S1S2S3S4
+S1S2S3S4
+RGSBiggerThanSun
+that is hundreds of times bigger than the sun.
+XX
+S3
+S3

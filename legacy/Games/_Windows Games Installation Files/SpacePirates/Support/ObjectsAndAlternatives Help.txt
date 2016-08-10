@@ -1,0 +1,5 @@
+G1
+Elliptical Galaxy
+G2		    'For novice player
+G2G3                'For Intermediate player
+G2G3G4G5            'For Expert player

@@ -1,0 +1,45 @@
+RSSFewHunMMilesAccross
+that is a few hundred million miles across.
+XX
+XX
+XX
+RSSCoolStar
+that is a cool star.
+XX
+S2S5
+S2S5
+RSSNearEndofLife
+that is near the end of its life.
+XX
+S5
+S5
+RSSSuperNovaExplosion
+that will be destroyed in a supernova explosion.
+XX
+S3
+S3
+RSSBlackHole
+that may become a black hole.
+XX
+S3
+S3
+RSSNeutronStar
+that may become a neutron star / pulsar.
+XX
+S3
+S3
+RSS10KBrigterThanSun
+that can be tens of thousands of times brighter than the sun.
+XX
+XX
+XX
+RSSCoolKBrigterThanSun
+that is cool and thousands of times brighter than the sun.
+S5
+S5
+XX
+RSSLarger
+that is a few hundred times larger than the sun.
+XX
+XX
+XX

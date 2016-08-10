@@ -1,0 +1,8 @@
+IRGNoRegularShape-------------------Identifier of hint
+that does not have a regular shape.-Description of hint
+++----------------------------------This object doesn't apply at this level 1. e.g. Irreg Galaxy does not apply to Novice player.
+XX----------------------------------This hint can be taken. It does not apply to any other object of its group in current level.
+G1----------------------------------In the current level of Galaxies, this clue also applies to G1. 
+
+
+Starting with Nivice level, Intermediate and finally Expert level, one can tell which clue applies to another object of its group. Group implies clusters/stars/planets etc
