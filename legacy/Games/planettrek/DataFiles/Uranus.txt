@@ -1,0 +1,24 @@
+UrCold
+Uranus is a very cold planet. The average temperature of Uranus is 322 degrees below zero.
+UrGaseous
+Uranus is a gas planet with no solid surface.  It is like having a planet with just clouds and no ground.
+UrOneMoon
+Uranus has at least one moon. In fact, Uranus has at least 21 moons!
+UrManyMoons
+Uranus certainly has many moons. In fact, Uranus has at least 21 moons!
+UrDenseAtmosphere
+Uranus, a gas planet, can be thought of as a planet that is all atmosphere.  The deeper into the planet, the thicker the atmosphere.
+UrRings
+Uranus has very thin, faint rings.  Unlike Jupiter or Saturn's rings, Uranus's rings are made only of fine, scattered dust.
+UrOrbitsInMoreThanYear
+Uranus travels around the Sun slowly. Uranus takes 84 Earth years to make 1 complete trip around the sun.
+UrMagneticField
+Uranus has a strong magnetic field. A compass could definitely be used there.
+UrJupiterLike
+Uranus is similar to Jupiter.  It is a gas planet with no solid surface, like Jupiter, and its size is closer to Jupiter's size (as compared to Earth).
+UrLargerEarth
+Uranus is much larger than Earth. Uranus is nearly 32,000 miles wide while Earth is just 8,000 miles wide.
+UrVisited
+Only one spacecraft has been sent to Uranus, Voyager 2.  Voyager 2 studied Uranus's atmosphere, rings, moons, and more.
+UrOrbitsSide
+Uranus is the only planet that orbits the Sun on its side.

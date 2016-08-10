@@ -1,0 +1,10 @@
+Planet Trek is a 'scavenger hunt' through the solar system. I will pick five unique planetary features which you must find in the least possible time.
+
+Your starting location will be the Sun. Don't start by scanning the Sun, you will simply loose a lot of time (1000 days)!  You can travel to any planet, but time will be assessed according to how far away the planet is from your present location. At each planet, you can ask if any features you need are present. However, 30 days time will be lost if the one you ask is not present.
+
+Remember, once you find a feature, you don't have to search for it again. The object is to find all the features in the least time by travelling the least distance.
+
+You may scan a planet. ONLY 15 DAYS TIME IS USED IN THE SCAN. During the scan, you will see the features that are present on the planet.
+
+I have been keeping a list of the best scores and if you break a record, I will add your name to the record book at the end of the game. Remember, the less days you take, the better you score.
+

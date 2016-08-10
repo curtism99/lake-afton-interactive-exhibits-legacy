@@ -1,0 +1,36 @@
+JuGaseous
+Jupiter is a gas planet with no solid surface.  It is like having a planet with just clouds and no ground.
+JuOneMoon
+Jupiter has at least one moon. In fact, Jupiter has at least 60 moons as of Jul '04!
+JuManyMoons
+Jupiter certainly has many moons. In fact, Jupiter has at least 60 moons as of Jul '04!
+JuDenseAtmosphere
+Jupiter, a gas planet, can be thought of as a planet that is all atmosphere.  The deeper into the planet, the thicker the atmosphere.
+JuRings
+Jupiter has very thin, faint rings.  Unlike Saturn's famous rings, Jupiter's rings cannot be seen from Earth, even with a telescope.
+JuLargest
+Jupiter, over 88,000 miles wide, is the largest planet in the solar system.  More than one-thousand Earths could fit inside Jupiter.
+JuOrbitsInMoreThanYear
+Jupiter travels around the Sun slowly. Jupiter takes almost twelve Earth years to make one complete trip around the sun.
+JuMagneticField
+Jupiter has quite a strong magnetic field. A compass could definitely be used there.
+JuLightning
+Because of Jupiter's strong electric fields, electric charge can build up in Jupiter's atmosphere layers.  These charges are released as lightning.
+JuReleaseEnergy
+Jupiter is slowly shrinking because it is giving off more energy than it is receiving from the Sun.
+JuLargeMoon
+One of Jupiter's moons, Ganymede, is larger than the planet Mercury.  If Ganymede orbited the Sun instead of Jupiter, it could be called a planet.
+JuJupiterLike
+Jupiter is the standard used when comparing the other gas planets of our solar system such as Saturn and Uranus.
+JuAurora
+Charged particles from the Sun interact with the magnetic field at Jupiter's poles to produce beautiful light shows called "Aurora."
+JuShrinking
+Jupiter is slowly shrinking, but because of its size we are not able to see the changes.
+JuLargerEarth
+Jupiter is much larger than Earth. Jupiter is over 88,000 miles wide while Earth is just 8,000 miles wide.  Over 1,000 Earths could fit inside Jupiter.
+JuVisited
+Jupiter has been visited by several Earth satellites.  These missions studied Jupiter's atmosphere, magnetic fields, radiation, moons, and more.
+JuLanded
+Jupiter has no ground to land on, but in 1995 a probe was dropped into the atmosphere.  It sank through the clouds sending back information.
+JuRotatesTenHours
+Jupiter rotates on its axis very quickly. 1 day on Jupiter (one complete turn on its axis) is only 10 Earth-hours long.

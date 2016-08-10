@@ -1,0 +1,286 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "Constellations"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\system32\VB6STKIT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\COMCAT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\STDOLE2.TLB"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ASYCFILT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\OLEPRO32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\OLEAUT32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSVBVM60.DLL"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\MSVBVM60.DLL"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: CreateDir: "c:\lapogames\pictures"
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Orion3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Orion2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Orion1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Lyra3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Lyra2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Lyra1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Leo3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Leo2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Leo1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Hercules3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Hercules2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Hercules1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Gemini3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Gemini2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Gemini1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cygnus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cygnus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cygnus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cepheus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cepheus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cepheus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CanisMajor3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CanisMajor2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CanisMajor1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Bootes3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Bootes2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Bootes1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Ophiuchus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Ophiuchus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Ophiuchus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Pegasus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Pegasus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Pegasus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Perseus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Perseus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Perseus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Sagittarius2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Sagittarius1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Sagittarius3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Scorpius1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Scorpius2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Scorpius3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Taurus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Taurus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Taurus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMajor1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMajor2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMajor3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMinor1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMinor2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\UrsaMinor3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Delphinus3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Delphinus2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Delphinus1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cassiopeia3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cassiopeia2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Cassiopeia1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: CreateDir: "c:\lapogames\DataFiles"
+
+ACTION: PrivateFile: "c:\lapogames\DataFiles\Difference.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\DataFiles\RecordBook.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\DataFiles\Password.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\DataFiles\Instructions.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\DataFiles\Constellations.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CoronaBorealis3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CoronaBorealis2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\CoronaBorealis1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Auriga3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Auriga2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Auriga1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Aries3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Aries2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Aries1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Andromeda3.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Andromeda2.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\pictures\Andromeda1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Program Files\Common Files\designer\MSDERUN.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\Constellation.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\Program Files\Common Files\designer\MSDERUN.DLL"
+
+ACTION: ShellLink: "LAPO Games", "Constellations"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Constellation.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Constellation.exe", ""
+

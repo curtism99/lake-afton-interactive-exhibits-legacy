@@ -1,0 +1,152 @@
+[Bootstrap]
+SetupTitle=Install
+SetupText=Copying Files, please stand by.
+CabFile=Constellation.CAB
+Spawn=Setup1.exe
+Uninstal=st6unst.exe
+TmpDir=msftqws.pdw
+Cabs=1
+
+[Bootstrap Files]
+File1=@VB6STKIT.DLL,$(WinSysPathSysFile),,,6/18/98 12:00:00 AM,102912,6.0.81.69
+File2=@COMCAT.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,5/31/98 12:00:00 AM,22288,4.71.1460.1
+File3=@STDOLE2.TLB,$(WinSysPathSysFile),$(TLBRegister),,8/29/02 5:00:00 AM,17920,3.50.5014.0
+File4=@ASYCFILT.DLL,$(WinSysPathSysFile),,,8/29/02 5:00:00 AM,77824,3.50.5014.0
+File5=@OLEPRO32.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,8/29/02 5:00:00 AM,106496,5.0.5014.0
+File6=@OLEAUT32.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,8/29/02 5:00:00 AM,569344,3.50.5016.0
+File7=@MSVBVM60.DLL,$(WinSysPathSysFile),$(DLLSelfRegister),,8/29/02 5:00:00 AM,1388544,6.0.92.37
+
+[IconGroups]
+Group0=LAPO Games
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[LAPO Games]
+Icon1="Constellation.EXE"
+Title1=Constellations
+StartIn1=$(AppPath)
+
+[Setup]
+Title=Constellations
+DefaultDir=$(ProgramFiles)\Constellations
+AppExe=Constellation.exe
+AppToUninstall=Constellation.exe
+
+[Setup1 Files]
+File1=@Orion3.jpg,$(AppPath)\Pictures,,,1/7/02 11:39:20 AM,67724,0.0.0.0
+File2=@Orion2.jpg,$(AppPath)\Pictures,,,1/7/02 11:39:00 AM,34070,0.0.0.0
+File3=@Orion1.jpg,$(AppPath)\Pictures,,,1/7/02 11:38:44 AM,16899,0.0.0.0
+File4=@Lyra3.jpg,$(AppPath)\Pictures,,,11/26/01 5:39:36 PM,39480,0.0.0.0
+File5=@Lyra2.jpg,$(AppPath)\Pictures,,,11/26/01 5:39:16 PM,15506,0.0.0.0
+File6=@Lyra1.jpg,$(AppPath)\Pictures,,,11/26/01 5:38:58 PM,10471,0.0.0.0
+File7=@Leo3.jpg,$(AppPath)\Pictures,,,11/19/01 3:53:32 PM,66795,0.0.0.0
+File8=@Leo2.jpg,$(AppPath)\Pictures,,,11/19/01 3:53:14 PM,20017,0.0.0.0
+File9=@Leo1.jpg,$(AppPath)\Pictures,,,11/19/01 3:52:52 PM,9363,0.0.0.0
+File10=@Hercules3.jpg,$(AppPath)\Pictures,,,2/20/02 3:50:26 PM,95511,0.0.0.0
+File11=@Hercules2.jpg,$(AppPath)\Pictures,,,2/20/02 3:49:54 PM,29915,0.0.0.0
+File12=@Hercules1.jpg,$(AppPath)\Pictures,,,2/20/02 3:49:00 PM,13657,0.0.0.0
+File13=@Gemini3.jpg,$(AppPath)\Pictures,,,11/12/01 2:59:00 PM,59689,0.0.0.0
+File14=@Gemini2.jpg,$(AppPath)\Pictures,,,11/12/01 2:54:58 PM,22493,0.0.0.0
+File15=@Gemini1.jpg,$(AppPath)\Pictures,,,11/12/01 2:54:10 PM,10328,0.0.0.0
+File16=@Cygnus3.jpg,$(AppPath)\Pictures,,,11/12/01 11:22:24 AM,61092,0.0.0.0
+File17=@Cygnus2.jpg,$(AppPath)\Pictures,,,11/12/01 11:21:56 AM,24511,0.0.0.0
+File18=@Cygnus1.jpg,$(AppPath)\Pictures,,,11/12/01 11:21:34 AM,12881,0.0.0.0
+File19=@Cepheus3.jpg,$(AppPath)\Pictures,,,11/11/01 1:02:00 PM,50581,0.0.0.0
+File20=@Cepheus2.jpg,$(AppPath)\Pictures,,,11/11/01 1:00:58 PM,21075,0.0.0.0
+File21=@Cepheus1.jpg,$(AppPath)\Pictures,,,11/11/01 1:00:02 PM,10440,0.0.0.0
+File22=@CanisMajor3.jpg,$(AppPath)\Pictures,,,11/8/01 4:28:22 PM,64356,0.0.0.0
+File23=@CanisMajor2.jpg,$(AppPath)\Pictures,,,11/8/01 4:28:02 PM,17843,0.0.0.0
+File24=@CanisMajor1.jpg,$(AppPath)\Pictures,,,11/8/01 4:27:44 PM,12686,0.0.0.0
+File25=@Bootes3.jpg,$(AppPath)\Pictures,,,11/8/01 3:39:48 PM,50668,0.0.0.0
+File26=@Bootes2.jpg,$(AppPath)\Pictures,,,11/8/01 3:39:24 PM,22966,0.0.0.0
+File27=@Bootes1.jpg,$(AppPath)\Pictures,,,11/8/01 3:39:02 PM,10841,0.0.0.0
+File28=@Ophiuchus1.jpg,$(AppPath)\Pictures,,,1/3/02 3:25:54 PM,11477,0.0.0.0
+File29=@Ophiuchus2.jpg,$(AppPath)\Pictures,,,1/3/02 3:26:14 PM,33832,0.0.0.0
+File30=@Ophiuchus3.jpg,$(AppPath)\Pictures,,,1/3/02 3:26:34 PM,67967,0.0.0.0
+File31=@Pegasus1.jpg,$(AppPath)\Pictures,,,1/7/02 1:53:00 PM,10509,0.0.0.0
+File32=@Pegasus2.jpg,$(AppPath)\Pictures,,,1/7/02 1:53:42 PM,35233,0.0.0.0
+File33=@Pegasus3.jpg,$(AppPath)\Pictures,,,1/7/02 1:54:20 PM,73076,0.0.0.0
+File34=@Perseus1.jpg,$(AppPath)\Pictures,,,1/8/02 10:25:56 AM,11784,0.0.0.0
+File35=@Perseus2.jpg,$(AppPath)\Pictures,,,1/8/02 10:26:14 AM,24141,0.0.0.0
+File36=@Perseus3.jpg,$(AppPath)\Pictures,,,1/8/02 10:26:30 AM,52869,0.0.0.0
+File37=@Sagittarius2.jpg,$(AppPath)\Pictures,,,1/8/02 11:50:54 AM,30201,0.0.0.0
+File38=@Sagittarius1.jpg,$(AppPath)\Pictures,,,1/8/02 11:50:34 AM,12680,0.0.0.0
+File39=@Sagittarius3.jpg,$(AppPath)\Pictures,,,1/8/02 11:51:12 AM,73290,0.0.0.0
+File40=@Scorpius1.jpg,$(AppPath)\Pictures,,,1/8/02 1:27:34 PM,14539,0.0.0.0
+File41=@Scorpius2.jpg,$(AppPath)\Pictures,,,1/8/02 1:27:52 PM,23606,0.0.0.0
+File42=@Scorpius3.jpg,$(AppPath)\Pictures,,,1/8/02 1:28:10 PM,52512,0.0.0.0
+File43=@Taurus1.jpg,$(AppPath)\Pictures,,,1/11/02 12:45:16 PM,13301,0.0.0.0
+File44=@Taurus2.jpg,$(AppPath)\Pictures,,,1/11/02 12:46:04 PM,25798,0.0.0.0
+File45=@Taurus3.jpg,$(AppPath)\Pictures,,,1/11/02 12:46:24 PM,67756,0.0.0.0
+File46=@UrsaMajor1.jpg,$(AppPath)\Pictures,,,1/16/02 3:47:22 PM,9598,0.0.0.0
+File47=@UrsaMajor2.jpg,$(AppPath)\Pictures,,,1/16/02 3:47:42 PM,34208,0.0.0.0
+File48=@UrsaMajor3.jpg,$(AppPath)\Pictures,,,1/16/02 3:48:00 PM,96822,0.0.0.0
+File49=@UrsaMinor1.jpg,$(AppPath)\Pictures,,,1/17/02 11:50:18 AM,9067,0.0.0.0
+File50=@UrsaMinor2.jpg,$(AppPath)\Pictures,,,1/17/02 11:50:34 AM,17400,0.0.0.0
+File51=@UrsaMinor3.jpg,$(AppPath)\Pictures,,,1/17/02 11:50:52 AM,46353,0.0.0.0
+File52=@Delphinus3.jpg,$(AppPath)\Pictures,,,11/12/01 1:41:06 PM,36463,0.0.0.0
+File53=@Delphinus2.jpg,$(AppPath)\Pictures,,,11/12/01 1:40:40 PM,11417,0.0.0.0
+File54=@Delphinus1.jpg,$(AppPath)\Pictures,,,11/12/01 1:39:54 PM,7951,0.0.0.0
+File55=@Cassiopeia3.jpg,$(AppPath)\Pictures,,,11/11/01 12:21:12 PM,53158,0.0.0.0
+File56=@Cassiopeia2.jpg,$(AppPath)\Pictures,,,11/11/01 12:20:44 PM,13991,0.0.0.0
+File57=@Cassiopeia1.jpg,$(AppPath)\Pictures,,,11/11/01 12:20:16 PM,10908,0.0.0.0
+File58=@Difference.txt,$(AppPath)\DataFiles,,,5/17/04 12:44:10 PM,969,0.0.0.0
+File59=@RecordBook.txt,$(AppPath)\DataFiles,,,5/17/04 11:56:04 AM,61,0.0.0.0
+File60=@Password.txt,$(AppPath)\DataFiles,,,11/20/03 12:39:15 PM,6,0.0.0.0
+File61=@Instructions.txt,$(AppPath)\DataFiles,,,5/17/04 12:49:43 PM,701,0.0.0.0
+File62=@Constellations.txt,$(AppPath)\DataFiles,,,5/17/04 11:24:03 AM,785,0.0.0.0
+File63=@CoronaBorealis3.jpg,$(AppPath)\Pictures,,,11/11/01 2:23:38 PM,35143,0.0.0.0
+File64=@CoronaBorealis2.jpg,$(AppPath)\Pictures,,,11/11/01 2:23:20 PM,12398,0.0.0.0
+File65=@CoronaBorealis1.jpg,$(AppPath)\Pictures,,,11/11/01 2:23:00 PM,9232,0.0.0.0
+File66=@Auriga3.jpg,$(AppPath)\Pictures,,,11/7/01 4:41:14 PM,63572,0.0.0.0
+File67=@Auriga2.jpg,$(AppPath)\Pictures,,,11/7/01 4:40:54 PM,22383,0.0.0.0
+File68=@Auriga1.jpg,$(AppPath)\Pictures,,,11/7/01 4:40:34 PM,11232,0.0.0.0
+File69=@Aries3.jpg,$(AppPath)\Pictures,,,11/7/01 4:12:00 PM,65257,0.0.0.0
+File70=@Aries2.jpg,$(AppPath)\Pictures,,,11/7/01 3:56:06 PM,14185,0.0.0.0
+File71=@Aries1.jpg,$(AppPath)\Pictures,,,11/7/01 4:11:24 PM,6319,0.0.0.0
+File72=@Andromeda3.jpg,$(AppPath)\Pictures,,,11/7/01 2:50:48 PM,70189,0.0.0.0
+File73=@Andromeda2.jpg,$(AppPath)\Pictures,,,11/7/01 2:50:22 PM,24246,0.0.0.0
+File74=@Andromeda1.jpg,$(AppPath)\Pictures,,,11/7/01 2:44:08 PM,3191,0.0.0.0
+File75=@MDAC_TYP.EXE,$(AppPath)\Pictures,,,6/26/98 12:00:00 AM,8124720,4.71.1015.0
+File76=@MSADO20.TLB,$(WinSysPath),$(DLLSelfRegister),$(Shared),8/29/02 5:00:00 AM,61440,2.71.9030.0
+File77=@MSDERUN.DLL,$(CommonFiles)\designer,$(DLLSelfRegister),$(Shared),6/9/98 12:00:00 AM,137216,6.0.0.3005
+File78=@Constellation.exe,$(AppPath),,,7/15/04 9:18:53 AM,143360,1.0.0.0
+
+; The following lines may be deleted in order to obtain extra 
+; space for customizing this file on a full installation diskette.
+; 
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

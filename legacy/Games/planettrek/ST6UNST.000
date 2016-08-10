@@ -1,0 +1,522 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "Planet Trek"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\VB6STKIT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\ASYCFILT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVBVM60.DLL"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSVBVM60.DLL"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeVolcanoes.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeSmall.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeRotatesSlowest.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeRotatesOpposite.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeRocky.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeOrbitsInLessThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeNoMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeMountains.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeLessMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeLanded.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeHot.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeEarthLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeDenseAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeCraters.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeCarbonDioxide.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\VeAcidClouds.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrRings.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrOrbitsSide.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrManyMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrLargerEarth.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrJupiterLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrGaseous.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrDenseAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\UrCold.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaWinds.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaShrinking.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaRotatesTenHours.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaRings.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaReleaseEnergy.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaMoonAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\pictures\SaManyMoons1.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaManyMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaLargerEarth.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaLargeMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaJupiterLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaGaseous.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlSmallest.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlSmall.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlNoAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaDenseAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\SaAurora.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlNeverVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlLessMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlElongatedOrbit.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\PlCold.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeRings.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeReleaseEnergy.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeMoonAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeManyMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeLargerEarth.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeJupiterLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeGaseous.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeDenseAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\NeCold.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeSmall.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeRocky.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeOrbitsInLessThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeNoMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeNoAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeLessMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeHot.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeElongatedOrbit.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeEarthLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeCraters.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MeCold.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaVolcanoes.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaSmall.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaSeasons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaRocky.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaPolarCaps.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaLessMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaLanded.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaEarthLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaCraters.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\MaCarbonDioxide.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuShrinking.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuRotatesTenHours.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuRings.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuReleaseEnergy.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuOrbitsInMoreThanYear.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\pictures\JuMostMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuManyMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuLightning.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuLargest.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuLargerEarth.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuLargeMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuLanded.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuJupiterLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuGaseous.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuDenseAtmosphere.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\JuAurora.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaWater.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaVolcanoes.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaVisited.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaSmall.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaSeasons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaRocky.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaPolarCaps.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaOneMoon.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaMountains.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaMagneticField.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaLightning.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaLife.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaLessMoons.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaLanded.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaFreeOxygen.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaEarthLike.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaCraters.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\EaAurora.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\9thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\8thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\7thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\6thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\5thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\4thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Jupiter.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Mars.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Mercury.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Venus.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Neptune.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Password.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Pluto.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\RecordBook.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Saturn.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Uranus.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Instructions.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Features.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\DataFiles\Earth.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\3thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\2thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\Pictures\1thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Program Files\Common Files\designer\MSDERUN.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\planettrek\PlanetTrek.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\Program Files\Common Files\designer\MSDERUN.DLL"
+
+ACTION: ShellLink: "Lapo Games", "Planet Trek"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\PlanetTrek.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\PlanetTrek.exe", ""
+

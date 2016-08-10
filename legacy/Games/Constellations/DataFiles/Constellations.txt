@@ -1,0 +1,46 @@
+Andromeda
+Andromeda (The Chained Princess)
+Aries
+Aries (The Ram)
+Auriga
+Auriga (The Charioteer)
+Bootes
+Bootes (The Heardsman)
+CanisMajor
+Canis Major (The Great Dog)
+Cassiopeia
+Cassiopeia (The Queen)
+Cepheus
+Cepheus (The King)
+CoronaBorealis
+Corona Borealis (The Northern Crown)
+Cygnus
+Cygnus (The Swan)
+Delphinus
+Delphinus (The Dolphin)
+Gemini
+Gemini (The Twins)
+Hercules
+Hercules (The Strongman)
+Leo
+Leo (The Lion)
+Lyra
+Lyra (The Harp)
+Ophiuchus
+Ophiuchus (The Serpent Holder)
+Orion
+Orion (The Hunter)
+Pegasus
+Pegasus (The Winged Horse)
+Perseus
+Perseus (The Champion)
+Sagittarius
+Sagittarius (The Archer)
+Scorpius
+Scorpius (The Scorpion)
+Taurus
+Taurus (The Bull)
+UrsaMajor
+Ursa Major (The Great Bear)
+UrsaMinor
+Ursa Minor (The Little Bear)

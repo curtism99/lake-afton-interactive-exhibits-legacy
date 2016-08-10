@@ -1,0 +1,35 @@
+RKPFewMoons
+that has a few, if any moons.
+XX
+XX
+P3
+RKPMadeOfRock
+that is made of rock.
+P2
+XX
+XX
+RKPCloseToItsSun
+that is located close to its sun.
+XX
+XX
+XX
+RKP5To10KMilesAccross
+that is on the order of 5 to 10 thousand miles across.
+P2
+XX
+P3
+RKPRotatesDaysOrWeeks
+that rotates on the order of days or weeks.
+P2
+XX
+P3
+RKPSimilarToEarth
+that is similar to Earth in our solar system.
+XX
+XX
+XX
+RKPHasCraters
+that has craters on its surface.
+XX
+XX
+XX

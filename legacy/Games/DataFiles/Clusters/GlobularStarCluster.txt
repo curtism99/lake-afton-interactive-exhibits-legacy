@@ -1,0 +1,30 @@
+GSCOnlyOldStars
+that contains only old stars.
+XX
+XX
+XX
+GSCMillionStars
+that contains between 10 thousand and 1 million stars.
+XX
+XX
+XX
+GSCHalos
+that is found in the halos of spiral galaxies.
+XX
+XX
+XX
+GSCStaysBillionYrs
+that stays together for billions of years.
+XX
+XX
+XX
+GSC100YrsAccross
+that can be on the order of 100 light years across.
+XX
+XX
+XX
+GSCLittleOrNoGass
+that has little or no gas.
+XX
+XX
+XX

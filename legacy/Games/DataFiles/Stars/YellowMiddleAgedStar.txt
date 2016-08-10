@@ -1,0 +1,45 @@
+YMSLikeSun
+which is like the sun.
+XX
+XX
+XX
+YMSMillionMilesAccross
+which is on the order of a million miles across.
+S2S3
+XX
+XX
+YMS6000Degrees
+which has a temperature of about 6,000 degrees C.
+S2S3
+XX
+XX
+YMSPlanetaryNebula
+which will form a planetary nebula when it begins to die.
+S2S3
+S2S3
+S2S3
+YMSWhiteDwaf
+which will end up as a white dwarf.
+S2S3
+S2S3
+S2S3
+YMSRedGiant
+which will become a red giant when it starts to die.
+S2S3
+S2S3
+S2S3
+YMSBrighLikeSun
+which is the same brightness as the sun.
+XX
+XX
+XX
+YMSSizeLikeSun
+which is about the same size as the sun.
+XX
+XX
+XX
+YMSTempAsSun
+which has the same temperature as the sun.
+XX
+XX
+XX

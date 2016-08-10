@@ -1,0 +1,285 @@
+ %% PLEASE DO NOT MODIFY OR DELETE THIS FILE! %% 
+ %% This file contains information about the installation of an application. %% 
+ %% It will be used to automatically remove all application components from your computer if you choose to do so. %% 
+
+
+NOTE: Beginning of the bootstrapper section
+
+CONFIG: Title: "SpacePirates"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\VB6STKIT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVCRT40.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\ASYCFILT.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+(File currently on disk was already up to date)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVBVM60.DLL"
+(File currently on disk was already up to date)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSVBVM60.DLL"
+
+NOTE: End of the bootstrapper section
+
+NOTE: Now spawning the main Setup program 'Setup1.exe'....
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\StartTime.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\StarFeatures.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\RecordBook.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Password.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\ObjectsAndAlternatives Help.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\ObjectsAndAlternatives.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Instructions.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\HintsHelp.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\GalaxyFeatures.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Features.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\ClusterFeatures.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Readme.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\YellowMiddleAgeStarClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\SpiralGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\RedSuperGiantStarClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\RedMiddleAgeStarClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\RedGiantStarClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\OpenStarClusterClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\JupiterLikePlanetClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\IrregularGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\GlobularStarClusterClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\GlobularGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\GiantEllipticalGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\FieldStarClusterClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\EllipticalGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\EarthLikePlanetClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\DwarfEllipticalGalaxyClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\BrownDwarfPlanetClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\BlueMiddleAgeStarClues.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\2thumbss.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\2thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\2default.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\1thumbss.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\Pictures\1thumb.jpg"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Stars\YellowMiddleAgedStar.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Stars\RedSuperGiantStar.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Stars\RedMiddleAgedStar.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Stars\RedGiantStar.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\BlueMiddleAgedStar.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Planets\JupiterLikePlanet.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Planets\EarthLikePlanet.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Planets\BrownDwarfPlanet.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Paths\SpaceCadetPaths.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Paths\NovicePaths.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Paths\ExpertCaptainPaths.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Galaxies\SpiralGalaxy.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Galaxies\IrregularGalaxy.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Galaxies\GiantEllipticalGalaxy.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Galaxies\EllipticalGalaxy.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Galaxies\DwarfEllipticalGalaxy.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Clusters\OpenStarClusterExpert.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Clusters\OpenStarCluster.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Clusters\GlobularStarClusterExpert.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Clusters\GlobularStarCluster.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\DataFiles\Clusters\FieldStarCluster.txt"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSSTDFMT.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSBIND.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSDATREP.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSDATGRD.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\DATAFORM.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\APPWIZ.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCOMCTL.OCX"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\VB5DB.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msrepl35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msrd2x35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msjint35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msjter35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msjet35.dll"
+(File was not found or was an older version -- new file copied)
+
+ACTION: SharedFile: "C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+(File was not found or was an older version -- new file copied)
+
+ACTION: PrivateFile: "c:\lapogames\spacepirate\SpacePirates.exe"
+(File was not found or was an older version -- new file copied)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSSTDFMT.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSBIND.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSDATREP.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSDATGRD.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\DATAFORM.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\APPWIZ.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSCOMCTL.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\msrd2x35.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\msjet35.dll"
+
+ACTION: DllSelfRegister: "C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+
+ACTION: ShellLink: "LAPO Games", "SpacePirates"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\SpacePirates.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\SpacePirates.exe", ""
+

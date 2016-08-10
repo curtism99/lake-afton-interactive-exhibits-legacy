@@ -1,0 +1,24 @@
+MeCraters
+Here are some of the many craters on Mercury's surface.  These craters formed when meteorites crashed onto Mercury.
+MeCold
+Mercury doesn't really have an atmosphere to keep it warm, so nighttime temperatures can be as cold as 300 degrees below zero.
+MeHot
+Mercury is so close to the Sun that day time temperatures can reach as high as 870 degrees.
+MeSmall
+Mercury is a small planet. It's about 3000 miles across, less than half the size of Earth.  (Earth is about 8,000 miles across.)
+MeRocky
+Mercury is a solid planet made of rock material.
+MeOrbitsInLessThanYear
+Mercury travels around the Sun quickly. Mercury makes 1 complete trip around the Sun in just 88 Earth days.
+MeMagneticField
+Mercury has a strong enough magnetic field that a compass could be used there.
+MeEarthLike
+Mercury is similar to the Earth.  It is a solid, rocky planet, like Earth, and its size is closer to the Earth's size (as compared to Jupiter).
+MeNoAtmosphere
+Mercury has no atmosphere.  In other words, there is no significant layer of gas surrounding Mercury, like air surrounds Earth.
+MeNoMoon
+Mercury has no moons.
+MeVisited
+In 1974, this spacecraft, Mariner 10, became the first spacecraft to visit Mercury.  It flew by the planet and sent back many pictures of Mercury's surface.
+MeLessMoons
+Mercury has less than five moons. In fact, Mercury has no moons at all.

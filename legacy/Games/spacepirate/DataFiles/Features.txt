@@ -1,0 +1,48 @@
+Young&OldStars
+contains both young and old stars
+0
+A
+GasDustClouds
+contains coulds of gas and dust
+0
+A
+StarFormation
+where star formation is taking place.
+0
+A
+1BillTo1TrillStars
+contains between 1 Billion to 1 Trillion Stars.
+0
+A
+FlatCentralBulge
+is flat with a central bulge.
+0
+A
+75Kto2&HalfMLightYrsAccross
+is between 75 thousand and 2.5 million light years accross
+0
+A
+FootballShaped
+is football shaped, although some are round
+1
+A
+LittleGasDust
+has very little gas and dust
+1
+A
+OldStars
+contains mostly old stars
+1
+A
+LittleOrNoStarFormation
+where little or no star formation is occuring.
+1
+A
+XXXLightYrsAccross
+is generally _________ Light Years accross.
+1
+A
+XXXStars
+contains ________ stars
+1
+A

@@ -1,0 +1,30 @@
+ELGFootballShape
+that is football shaped, although some are round.
+XX
+XX
+G4G5
+ELGLittleGasAndDust
+that has very little gas and dust.
+XX
+XX
+G4G5
+ELGMostlyOldStars
+that contains mostly old stars.
+XX
+XX
+G4G5
+ELGLittleStarFormation
+where little or no star formation is occuring.
+XX
+XX
+G4G5
+ELG100KLightYrsAcross
+that is generally 100 thousand light years across.
+++
+++
+G2
+ELGBtw1Tri&1TriStars
+that contains between 1 billion and 1 trillion stars.
+++
+++
+G2

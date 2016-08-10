@@ -1,0 +1,30 @@
+OSCYoungStars
+that contains young stars.
+XX
+XX
+XX
+OSCFewHundredStars
+that contains a few hundred stars.
+XX
+XX
+XX
+OSCDiskPotions
+that is found in the disk portions of spiral galaxies.
+XX
+XX
+XX
+OSCTogetherFewYears
+that generally stays together for less than a few 100 million years.
+XX
+XX
+XX
+OSCLess40YearsAccross
+that is less than 40 light years accross.
+XX
+XX
+XX
+OSCGasDustAssociated
+that is sometimes associated with clouds of gas and dust.
+XX
+XX
+XX

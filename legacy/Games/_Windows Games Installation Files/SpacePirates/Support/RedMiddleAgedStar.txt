@@ -1,0 +1,35 @@
+RMSIsCoolStar
+which is a cool star.
+XX
+S4S5
+S4S5
+RMSFewHunThouMilesAccross
+which is on the order of a few hundred thousand miles across.
+S1S3
+S1
+S1
+RMSLiveTrillionYears
+which will live for trillions of years.
+XX
+S4S5
+S4S5
+RMSRunOutOfFuel
+which will slowly run out of fuel and become dark.
+S1S3
+XX
+XX
+RMSFaitherThanSun
+which is a cool star hundreds of times fainter than the sun.
+S1S3
+XX
+XX
+RMSMuchSmallerThanSun
+which is a star much smaller than the sun.
+XX
+XX
+XX
+RMSKFaitherThanSun
+which is a cool star thousands of times fainter than the sun.
+XX
+XX
+XX

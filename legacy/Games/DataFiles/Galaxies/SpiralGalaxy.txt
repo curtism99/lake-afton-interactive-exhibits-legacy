@@ -1,0 +1,30 @@
+SPGYoungAndOldStars
+that contains both young and old stars.
+XX
+G3
+G3
+SPGGasAndDust
+that contains clouds of gas and dust.
+XX
+G3
+G3
+SPGStarFormation
+where star formation is taking place.
+XX
+G3
+G3
+SPGBilToTrillionStars
+that contains between 1 billion and 1 trillion stars.
+G1
+G1
+G1
+SPGFlatWithCentralBulge
+that is flat with a central bulge.
+XX
+XX
+XX
+SPG75KTo2.5MLightYears
+that is between 75 thousand and 2.5 million light years accross.
+G1
+G1
+G1

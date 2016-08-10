@@ -1,0 +1,45 @@
+GSCOnlyOldStars
+where others stars in the neighborhood are all old stars.
+XX
+XX
+XX
+GSCMillionStars
+with a group of between 10 thousand and 1 million stars.
+XX
+XX
+XX
+GSCHalos
+that is in the halos of spiral galaxies.
+XX
+XX
+XX
+GSCStaysBillionYrs
+with a group of stars that can stay together for billions of years.
+XX
+XX
+XX
+GSC100YrsAccross
+with a group of stars that can be on the order of 100 light years across.
+XX
+XX
+XX
+GSCLittleOrNoGass
+that is not associated with a cloud of gas and dust.
+XX
+XX
+XX
+GSC1To2YrsApart
+where stars are 1 to 2 years apart.
+++
+++
+XX
+GSCSameGasCloud
+where other stars in the neighborhood are all formed from the same gas cloud.
+++
+++
+C1
+GSCSameAge
+where other stars in the neighborhood are all the same age.
+++
+++
+C1

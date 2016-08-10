@@ -1,0 +1,20 @@
+FSCNeiborNotSameGas
+where other stars in the same neigborhood did not form from the same gas cloud.
+++
+++
+XX
+FSC4To5Yrs
+where stars are 4 to 5 light years apart.
+++
+++
+XX
+FSCNeighborsDiffAges
+where other stars in the neighborhood are different ages.
+XX
+XX
+XX
+FSCSimilarToSunRegion
+similar to the region our sun is located in.
+++
+++
+XX

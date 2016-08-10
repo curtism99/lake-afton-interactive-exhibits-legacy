@@ -1,0 +1,18 @@
+The Game can be played with or without a constellation review.
+If you choose to play with the review, you will see ten constellations before the game begins.You will then be asked to recognize five constellations out of the ten constellations you saw.
+
+If you choose to play without a review, then no constellation review will be shown.
+
+In either case the scoring  method remains the same. 
+Your goal is to recognize 5 constellations while taking minimum hints from the computer. You can get a maximum of 30 points if you recognize a constellation without taking any hint. 
+
+**** 10 points are decucted if you choose the wrong option, you then automatically get a hint ****
+
+Only 5 points are deducted for every hint that you take on your own.
+
+However you get no points if you fail to recognize the constellation after 3 tries.
+The maximum points you can get is 150.
+
+If you break a record, I will put your name in the record book.
+
+Best of Luck...

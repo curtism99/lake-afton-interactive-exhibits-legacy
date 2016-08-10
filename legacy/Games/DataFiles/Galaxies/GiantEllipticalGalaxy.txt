@@ -1,0 +1,25 @@
+GEGFootballShape
+that is football shaped, although some are round.
+++
+++
+G1G5
+DEGLittleGasAndDust
+that has very little gas and dust.
+++
+++
+G1G5
+DEGMostlyOldStars
+that contains mostly old stars.
+++
+++
+G1G5
+DEG1MilLightYrsAcross
+that is generally 1 million light years across.
+++
+++
+XX
+DEGMoreThan1TrillStars
+that contains more than 1 trillion stars.
+++
+++
+XX

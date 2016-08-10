@@ -1,0 +1,4 @@
+Whenever installing the lapo games on windows 98, you need to install dlls.
+First install all the games, then run: [Windows Games Installation Files/DLLs/mcrepair]
+
+Make sure to intall the games first.

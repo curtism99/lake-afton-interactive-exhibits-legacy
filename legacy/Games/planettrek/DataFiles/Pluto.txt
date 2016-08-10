@@ -1,0 +1,18 @@
+PlCold
+Pluto is a very cold planet.  The average temperature of Pluto is colder than 350 degrees below zero.
+PlSmall
+Pluto is a very small planet. Pluto is only about 1,500 miles wide while Earth is nearly 8,000 miles wide.
+PlOneMoon
+Pluto does have at least one moon. In fact, Pluto has only one moon, Charon.
+PlSmallest
+Pluto is the smallest planet in the solar system at nearly 1,500 miles wide.  The largest planet, Jupiter, is over 88,000 miles wide!
+PlOrbitsInMoreThanYear
+Pluto travels around the Sun very slowly. Pluto takes nearly 248 Earth years to make 1 complete trip around the sun!
+PlNoAtmosphere
+Pluto has no atmosphere.  In other words, there is no significant layer of gas surrounding Pluto, like air surrounds Earth.
+PlElongatedOrbit
+The path Pluto follows around the sun looks more like an oval (egg-shaped) than a circle.
+PlLessMoons
+Pluto has less than five moons. In fact, Pluto has only one moon, Charon.
+PlNeverVisited
+Unlike the other eight planets in our solar system, Pluto has never been visited by a satellite from Earth.

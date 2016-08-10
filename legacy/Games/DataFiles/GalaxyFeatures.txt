@@ -1,0 +1,40 @@
+FootballShape
+is football shaped, although some are round.
+G1
+A
+LittleGasAndDust
+has very little gas and dust.
+G1
+A
+MostlyOldStars
+contains mostly old stars.
+G1
+A
+LittleStarFormation
+Where little or no star formation is occuring.
+G1
+A
+GasAndDust
+has many clouds of gas and dust.
+G2
+A
+FlatWithCentralBulge
+which is flat with a central bulge.
+G2
+A
+SPGStarFormation
+Where star formation is taking place.
+G2
+A
+BilToTrillionStars
+contains between 1 billion and 1 trillion stars.
+G2
+A
+YoungAndOldStars
+contains both young and old stars.
+G2
+A
+75KTo2.5MLightYears.
+is between 75 thousand and 2.5 million light years accross.
+G2
+A

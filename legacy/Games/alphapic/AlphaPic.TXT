@@ -1,0 +1,63 @@
+**************************
+This file is used by the Alphabet Picture game (alphapic.exe) to list the
+picture and sound files.  The files should be listed as:
+letter type filename          like: a, picture/sound, apic.gif
+List sound files immediately after the picture file they are to be used with.
+Not all pictures must have sound files.  For more information see the alphrdme.txt.
+Valid picture extensions are .gif and .bmp.  Valid sound extensions are .wav.
+**************************
+Full pathname if different directory:, c:\alphapic\picture\
+Use sound files for pictures? (y/n), n
+"Please pick a letter", 
+"The picture file was not found",
+a,picture,ASTEROID.jpg
+a,picture,Astronaut.jpg
+b,picture,Binary_star.jpg
+b,picture,Black_hole.jpg
+c,picture,COMET.jpg
+c,picture,Comet_Halley.JPG
+c,picture,CONSTELLATION.JPG
+c,picture,CRATER.JPG
+d,picture,DOG_STAR.JPG
+e,picture,EARTH.JPG
+f,picture,FLARE_SOLAR.JPG
+g,picture,GALAXIES.jpg
+h,picture,Hale-Bopp.JPG
+h,picture,Halley's_Comet.JPG
+h,picture,HELIX.JPG
+h,picture,Hercules.JPG
+h,picture,HST_DeepField.JPG
+i,picture,IDA.JPG
+i,picture,Interstellar_Medium.JPG
+i,picture,IO.JPG
+j,picture,JUPITER.JPG
+k,picture,KEYHOLE.jpg
+k,picture,Keck_Observatory.jpg
+l,picture,LIGHT.JPG
+m,picture,m15.JPG
+m,picture,MARS.JPG
+m,picture,MOON.JPG
+n,picture,Nebula_Orion.JPG
+n,picture,NEPTUNE.JPG
+o,picture,Open_Cluster.JPG
+o,picture,Olympus_Mons.JPG
+o,picture,Orion_Nebula.JPG
+p,picture,Planetary_Nebula.JPG
+p,picture,PLEIADES.JPG
+p,picture,PLUTO.JPG
+q,picture,QUASAR.JPG
+r,picture,Red_Giant.JPG
+r,picture,Ring_Nebula.jpg
+s,picture,SATURN.JPG
+s,picture,SUN.JPG
+s,picture,SUNSPOTS.JPG
+t,picture,TELESCOPE.JPG
+t,picture,TITAN.JPG
+u,picture,Uranus.JPG
+u,picture,Uranus'_Rings.JPG
+v,picture,VENUS.JPG
+w,picture,White_Dwarf.JPG
+x,picture,Xray.JPG
+y,picture,YERKESTE.JPG
+y,picture,Young_star.JPG
+z,picture,Zodiac.JPG

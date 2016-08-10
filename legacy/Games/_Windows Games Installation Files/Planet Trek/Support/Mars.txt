@@ -1,0 +1,26 @@
+MaCraters
+Many, many craters cover the surface of Mars.  Craters are formed when large meteorites crash into the surface.
+MaCarbonDioxide
+Most of the very thin Martian atmosphere is carbon dioxide, a gas that humans breathe out as waste.
+MaSmall
+Mars is smaller than Earth.  Mars is about 4,200 miles across and Earth is close to 8,000 miles across.
+MaRocky
+Mars is a solid planet made of rock material.
+MaOneMoon
+Mars has two moons, Phobos and Deimos.  These moons are probably former asteroids, captured by Mars' gravity long ago.
+MaVolcanoes
+Mars has several volcanoes, including the largest volcano in the solar system, Olympus Mons.  Its base is nearly as large as Kansas.
+MaOrbitsInMoreThanYear
+Mars travels around the Sun slowly. Mars makes 1 complete trip around the Sun in 687 Earth days (almost two Earth years).
+MaPolarCaps
+Because temperatures are so cold near the north and south poles, carbon dioxide is always frozen into massive, polar ice caps.
+MaEarthLike
+Mars is similar to Earth.  It is a solid, rocky planet, like Earth, and its size is closer to the Earth's size (as compared to Jupiter).
+MaSeasons
+Because Mars is tilted, different areas receive more sunlight at different parts of the year, producing noticeable seasons.
+MaVisited
+Mars has been visited by many spacecraft.  These spacecraft have studied Martian weather, geology, and more.
+MaLanded
+Several spacecraft have landed on the surface of Mars to learn about the planet.
+MaLessMoons
+Mars has less than five moons. In fact, Mars has two moons, Phobos and Deimos.

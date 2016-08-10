@@ -1,0 +1,30 @@
+DEGFootballShape
+that is football shaped, although some are round.
+++
+++
+G1G4
+DEGLittleGasAndDust
+that has very little gas and dust.
+++
+++
+G1G4
+DEGMostlyOldStars
+that contains mostly old stars.
+++
+++
+G1G4
+DEGLittleStarFormation
+where little or no star formation is occuring.
+++
+++
+G1G4
+DEGFewKLightYrsAcross
+that is generally a few thousand years accross.
+++
+++
+G3
+DEGFewMillStars
+that contains a few million stars.
+++
+++
+G3

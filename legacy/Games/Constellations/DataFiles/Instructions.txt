@@ -1,0 +1,14 @@
+This is the Constellation Game. 
+The goal is to identify 5 constellations while taking a minimum amount of hints.
+
+You get 30 points per constellation if you don't take any hint.
+If you ask for a hint you lose 5 points.
+However, you lose 10 points if you choose the wrong constellation.You will get a maximum of 2 hints per constellation.
+
+If you still can't identify the constallation you get zero points.
+
+You can play the game with or without review.
+In case you choose to play with review, you will see 10 constellation and the constellations that you will have to identify in the game will be 5 of the 10 constellations you reviewed.
+
+The scoring method is the same in both cases.
+

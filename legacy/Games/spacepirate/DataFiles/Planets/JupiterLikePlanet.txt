@@ -1,0 +1,35 @@
+GJPManyMoons
+that has a large number of moons.
+XX
+XX
+XX
+GJPRings
+that has rings.
+XX
+XX
+XX
+GJPFarFromItsSun
+that is generally located far from its sun.
+XX
+XX
+P3
+GJP50To100KMilesAccross
+that is on the order of 50 to 100 thousand miles across.
+P1
+XX
+P3
+GJPRotatesRapidly
+that rotates rapidly.
+P1
+XX
+P3
+GJPSimilarToJupiter
+that is similar to Jupiter in our solar system.
+XX
+XX
+XX
+GJPLeargerThanEarth
+that is larger than Earth.
+XX
+XX
+P3

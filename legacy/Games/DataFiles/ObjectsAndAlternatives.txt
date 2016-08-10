@@ -1,0 +1,80 @@
+G1
+Elliptical Galaxy
+G2
+G2G3
+G2G3G4G5
+G2
+Spiral Galaxy
+G1
+G1G3
+G1G3G4G5
+G3
+Irregular Galaxy
+XXXXXX
+G1G2
+G1G2G4G5
+G4
+Giant Elliptical Galaxy
+XXXXXX
+XXXXXX
+G1G2G3G5
+G5
+Dwarf Elliptical Galaxy
+XXXXXX
+XXXXXX
+G1G2G3G4
+C1
+Open Star Cluster
+C2
+C2
+C2C3
+C2
+Globular Star Cluster
+C1
+C1
+C1C3
+C3
+Field Star
+XXXXXX
+XXXXXX
+C1C2
+S1
+Yellow Middle-Age Star
+S2S3
+S2S3S4S5
+S2S3S4S5
+S2
+Red Middle-Age Star
+S1S3
+S1S3S4S5
+S1S3S4S5
+S3
+Blue Middle-Age Star
+S1S2
+S1S2S4S5
+S1S2S4S5
+S4
+Red Super Giant Star
+XXXXXX
+S1S2S3S5
+S1S2S3S5
+S5
+Red Giant Star
+XXXXXX
+S1S2S3S4
+S1S2S3S4
+P1
+Earth-Like Planet
+P2
+P2
+P2P3
+P2
+Jupiter-Like Planet
+P1
+P1
+P1P3
+P3
+Brown Dwarf
+XXXXXX
+XXXXXX
+P1P2
