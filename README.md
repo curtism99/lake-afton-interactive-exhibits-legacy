@@ -8,3 +8,5 @@ Feel free to submit new slideshows and infographics as well.
 
 ## Technology
 We need to find a good HTML/Javascript based slideshow/presentation system for these. The setup will likely be one on-site local server and several small Raspberry Pi tablets connecting to these over Chromium.
+
+For now let's plan on using http://lab.hakim.se/reveal-js/#/ for the presentations.
